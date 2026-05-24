@@ -1,0 +1,6319 @@
+{
+  "slug": "panini_world_cup_2026",
+  "collect_id": "12176",
+  "count": 1052,
+  "stickers": [
+    {
+      "num": "00",
+      "name": "Panini Logo",
+      "file": "00.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/00.jpg"
+    },
+    {
+      "num": "fwc1",
+      "name": "Official Emblem",
+      "file": "fwc1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/fwc1.jpg"
+    },
+    {
+      "num": "fwc2",
+      "name": "Official Emblem",
+      "file": "fwc2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/fwc2.jpg"
+    },
+    {
+      "num": "fwc3",
+      "name": "Official Mascots",
+      "file": "fwc3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/fwc3.jpg"
+    },
+    {
+      "num": "fwc4",
+      "name": "Official Slogan",
+      "file": "fwc4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/fwc4.jpg"
+    },
+    {
+      "num": "fwc5",
+      "name": "Official Ball",
+      "file": "fwc5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/fwc5.jpg"
+    },
+    {
+      "num": "fwc6",
+      "name": "Canada",
+      "file": "fwc6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/fwc6.jpg"
+    },
+    {
+      "num": "fwc7",
+      "name": "Mexico",
+      "file": "fwc7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/fwc7.jpg"
+    },
+    {
+      "num": "fwc8",
+      "name": "USA",
+      "file": "fwc8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/fwc8.jpg"
+    },
+    {
+      "num": "mex1",
+      "name": "Emblem",
+      "file": "mex1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/mex1.jpg"
+    },
+    {
+      "num": "mex2",
+      "name": "Luis Malag\u00f3n",
+      "file": "mex2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/mex2.jpg"
+    },
+    {
+      "num": "mex3",
+      "name": "Johan Vasquez",
+      "file": "mex3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/mex3.jpg"
+    },
+    {
+      "num": "mex4",
+      "name": "Jorge S\u00e1nchez",
+      "file": "mex4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/mex4.jpg"
+    },
+    {
+      "num": "mex5",
+      "name": "Cesar Montes",
+      "file": "mex5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/mex5.jpg"
+    },
+    {
+      "num": "mex6",
+      "name": "Jesus Gallardo",
+      "file": "mex6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/mex6.jpg"
+    },
+    {
+      "num": "mex7",
+      "name": "Israel Reyes",
+      "file": "mex7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/mex7.jpg"
+    },
+    {
+      "num": "mex8",
+      "name": "Diego Lainez",
+      "file": "mex8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/mex8.jpg"
+    },
+    {
+      "num": "mex9",
+      "name": "Carlos Rodriguez",
+      "file": "mex9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/mex9.jpg"
+    },
+    {
+      "num": "mex10",
+      "name": "Edson Alvarez",
+      "file": "mex10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/mex10.jpg"
+    },
+    {
+      "num": "mex11",
+      "name": "Orbelin Pineda",
+      "file": "mex11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/mex11.jpg"
+    },
+    {
+      "num": "mex12",
+      "name": "Marcel Ruiz",
+      "file": "mex12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/mex12.jpg"
+    },
+    {
+      "num": "mex13",
+      "name": "Team Photo",
+      "file": "mex13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/mex13.jpg"
+    },
+    {
+      "num": "mex14",
+      "name": "\u00c9rick S\u00e1nchez",
+      "file": "mex14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/mex14.jpg"
+    },
+    {
+      "num": "mex15",
+      "name": "Hirving Lozano",
+      "file": "mex15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/mex15.jpg"
+    },
+    {
+      "num": "mex16",
+      "name": "Santiago Gim\u00e9nez",
+      "file": "mex16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/mex16.jpg"
+    },
+    {
+      "num": "mex17",
+      "name": "Ra\u00fal Jim\u00e9nez",
+      "file": "mex17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/mex17.jpg"
+    },
+    {
+      "num": "mex18",
+      "name": "Alexis Vega",
+      "file": "mex18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/mex18.jpg"
+    },
+    {
+      "num": "mex19",
+      "name": "Roberto Alvarado",
+      "file": "mex19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/mex19.jpg"
+    },
+    {
+      "num": "mex20",
+      "name": "Cesar Huerta",
+      "file": "mex20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/mex20.jpg"
+    },
+    {
+      "num": "rsa1",
+      "name": "Emblem",
+      "file": "rsa1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/rsa1.jpg"
+    },
+    {
+      "num": "rsa2",
+      "name": "Ronwen Williams",
+      "file": "rsa2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/rsa2.jpg"
+    },
+    {
+      "num": "rsa3",
+      "name": "Sipho Chaine",
+      "file": "rsa3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/rsa3.jpg"
+    },
+    {
+      "num": "rsa4",
+      "name": "Aubrey Modiba",
+      "file": "rsa4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/rsa4.jpg"
+    },
+    {
+      "num": "rsa5",
+      "name": "Samukele Kabini",
+      "file": "rsa5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/rsa5.jpg"
+    },
+    {
+      "num": "rsa6",
+      "name": "Mbekezeli Mbokazi",
+      "file": "rsa6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/rsa6.jpg"
+    },
+    {
+      "num": "rsa7",
+      "name": "Khulumani Ndamane",
+      "file": "rsa7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/rsa7.jpg"
+    },
+    {
+      "num": "rsa8",
+      "name": "Siyabonga Ngezana",
+      "file": "rsa8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/rsa8.jpg"
+    },
+    {
+      "num": "rsa9",
+      "name": "Khuliso Mudau",
+      "file": "rsa9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/rsa9.jpg"
+    },
+    {
+      "num": "rsa10",
+      "name": "Nkosinathi Sibisi",
+      "file": "rsa10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/rsa10.jpg"
+    },
+    {
+      "num": "rsa11",
+      "name": "Teboho Mokoena",
+      "file": "rsa11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/rsa11.jpg"
+    },
+    {
+      "num": "rsa12",
+      "name": "Thalente Mbatha",
+      "file": "rsa12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/rsa12.jpg"
+    },
+    {
+      "num": "rsa13",
+      "name": "Team Photo",
+      "file": "rsa13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/rsa13.jpg"
+    },
+    {
+      "num": "rsa14",
+      "name": "Bathusi Aubaas",
+      "file": "rsa14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/rsa14.jpg"
+    },
+    {
+      "num": "rsa15",
+      "name": "Yaya Sithole",
+      "file": "rsa15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/rsa15.jpg"
+    },
+    {
+      "num": "rsa16",
+      "name": "Sipho Mbule",
+      "file": "rsa16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/rsa16.jpg"
+    },
+    {
+      "num": "rsa17",
+      "name": "Lyle Foster",
+      "file": "rsa17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/rsa17.jpg"
+    },
+    {
+      "num": "rsa18",
+      "name": "Iqraam Rayners",
+      "file": "rsa18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/rsa18.jpg"
+    },
+    {
+      "num": "rsa19",
+      "name": "Mohau Nkota",
+      "file": "rsa19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/rsa19.jpg"
+    },
+    {
+      "num": "rsa20",
+      "name": "Oswin Appollis",
+      "file": "rsa20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/rsa20.jpg"
+    },
+    {
+      "num": "kor1",
+      "name": "Emblem",
+      "file": "kor1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/kor1.jpg"
+    },
+    {
+      "num": "kor2",
+      "name": "Hyeon-woo Jo",
+      "file": "kor2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/kor2.jpg"
+    },
+    {
+      "num": "kor3",
+      "name": "Seung-Gyu Kim",
+      "file": "kor3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/kor3.jpg"
+    },
+    {
+      "num": "kor4",
+      "name": "Min-jae Kim",
+      "file": "kor4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/kor4.jpg"
+    },
+    {
+      "num": "kor5",
+      "name": "Yu-min Cho",
+      "file": "kor5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/kor5.jpg"
+    },
+    {
+      "num": "kor6",
+      "name": "Young-woo Seol",
+      "file": "kor6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/kor6.jpg"
+    },
+    {
+      "num": "kor7",
+      "name": "Han-beom Lee",
+      "file": "kor7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/kor7.jpg"
+    },
+    {
+      "num": "kor8",
+      "name": "Tae-seok Lee",
+      "file": "kor8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/kor8.jpg"
+    },
+    {
+      "num": "kor9",
+      "name": "Myung-jae Lee",
+      "file": "kor9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/kor9.jpg"
+    },
+    {
+      "num": "kor10",
+      "name": "Jae-sung Lee",
+      "file": "kor10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/kor10.jpg"
+    },
+    {
+      "num": "kor11",
+      "name": "In-beom Hwang",
+      "file": "kor11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/kor11.jpg"
+    },
+    {
+      "num": "kor12",
+      "name": "Kang-in Lee",
+      "file": "kor12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/kor12.jpg"
+    },
+    {
+      "num": "kor13",
+      "name": "Team Photo",
+      "file": "kor13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/kor13.jpg"
+    },
+    {
+      "num": "kor14",
+      "name": "Seung-ho Paik",
+      "file": "kor14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/kor14.jpg"
+    },
+    {
+      "num": "kor15",
+      "name": "Jens Castrop",
+      "file": "kor15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/kor15.jpg"
+    },
+    {
+      "num": "kor16",
+      "name": "Dongg-yeong Lee",
+      "file": "kor16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/kor16.jpg"
+    },
+    {
+      "num": "kor17",
+      "name": "Gue-sung Cho",
+      "file": "kor17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/kor17.jpg"
+    },
+    {
+      "num": "kor18",
+      "name": "Heung-min Son",
+      "file": "kor18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/kor18.jpg"
+    },
+    {
+      "num": "kor19",
+      "name": "Hee-chan Hwang",
+      "file": "kor19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/kor19.jpg"
+    },
+    {
+      "num": "kor20",
+      "name": "Hyeon-Gyu Oh",
+      "file": "kor20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/kor20.jpg"
+    },
+    {
+      "num": "cze1",
+      "name": "Emblem",
+      "file": "cze1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cze1.jpg"
+    },
+    {
+      "num": "cze2",
+      "name": "Matej Kovar",
+      "file": "cze2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cze2.jpg"
+    },
+    {
+      "num": "cze3",
+      "name": "Jindrich Stanek",
+      "file": "cze3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cze3.jpg"
+    },
+    {
+      "num": "cze4",
+      "name": "Ladislav Krejci",
+      "file": "cze4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cze4.jpg"
+    },
+    {
+      "num": "cze5",
+      "name": "Vladimir Coufal",
+      "file": "cze5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cze5.jpg"
+    },
+    {
+      "num": "cze6",
+      "name": "Jaroslav Zeleny",
+      "file": "cze6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cze6.jpg"
+    },
+    {
+      "num": "cze7",
+      "name": "Tomas Holes",
+      "file": "cze7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cze7.jpg"
+    },
+    {
+      "num": "cze8",
+      "name": "David Zima",
+      "file": "cze8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cze8.jpg"
+    },
+    {
+      "num": "cze9",
+      "name": "Michal Sadilek",
+      "file": "cze9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cze9.jpg"
+    },
+    {
+      "num": "cze10",
+      "name": "Lukas Provod",
+      "file": "cze10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cze10.jpg"
+    },
+    {
+      "num": "cze11",
+      "name": "Lukas Cerv",
+      "file": "cze11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cze11.jpg"
+    },
+    {
+      "num": "cze12",
+      "name": "Tomas Soucek",
+      "file": "cze12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cze12.jpg"
+    },
+    {
+      "num": "cze13",
+      "name": "Team Photo",
+      "file": "cze13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cze13.jpg"
+    },
+    {
+      "num": "cze14",
+      "name": "Pavel Sulc",
+      "file": "cze14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cze14.jpg"
+    },
+    {
+      "num": "cze15",
+      "name": "Matej Vydra",
+      "file": "cze15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cze15.jpg"
+    },
+    {
+      "num": "cze16",
+      "name": "Vasil Kusej",
+      "file": "cze16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cze16.jpg"
+    },
+    {
+      "num": "cze17",
+      "name": "Tomas Chory",
+      "file": "cze17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cze17.jpg"
+    },
+    {
+      "num": "cze18",
+      "name": "Vaclav Cerny",
+      "file": "cze18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cze18.jpg"
+    },
+    {
+      "num": "cze19",
+      "name": "Adam Hlozek",
+      "file": "cze19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cze19.jpg"
+    },
+    {
+      "num": "cze20",
+      "name": "Patrik Schick",
+      "file": "cze20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cze20.jpg"
+    },
+    {
+      "num": "can1",
+      "name": "Emblem",
+      "file": "can1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/can1.jpg"
+    },
+    {
+      "num": "can2",
+      "name": "Dayne St.Clair",
+      "file": "can2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/can2.jpg"
+    },
+    {
+      "num": "can3",
+      "name": "Alphonso Davies",
+      "file": "can3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/can3.jpg"
+    },
+    {
+      "num": "can4",
+      "name": "Alistair Johnston",
+      "file": "can4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/can4.jpg"
+    },
+    {
+      "num": "can5",
+      "name": "Samuel Adekugbe",
+      "file": "can5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/can5.jpg"
+    },
+    {
+      "num": "can6",
+      "name": "Richie Laryea",
+      "file": "can6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/can6.jpg"
+    },
+    {
+      "num": "can7",
+      "name": "Derek Cornelius",
+      "file": "can7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/can7.jpg"
+    },
+    {
+      "num": "can8",
+      "name": "Mo\u00efse Bombito",
+      "file": "can8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/can8.jpg"
+    },
+    {
+      "num": "can9",
+      "name": "Kamal Miller",
+      "file": "can9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/can9.jpg"
+    },
+    {
+      "num": "can10",
+      "name": "Stephen Eust\u00e1quio",
+      "file": "can10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/can10.jpg"
+    },
+    {
+      "num": "can11",
+      "name": "Isma\u00ebl Kon\u00e9",
+      "file": "can11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/can11.jpg"
+    },
+    {
+      "num": "can12",
+      "name": "Jonathan Osorio",
+      "file": "can12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/can12.jpg"
+    },
+    {
+      "num": "can13",
+      "name": "Team Photo",
+      "file": "can13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/can13.jpg"
+    },
+    {
+      "num": "can14",
+      "name": "Jacob Shaffelburg",
+      "file": "can14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/can14.jpg"
+    },
+    {
+      "num": "can15",
+      "name": "Mathieu Choini\u00e8re",
+      "file": "can15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/can15.jpg"
+    },
+    {
+      "num": "can16",
+      "name": "Niko Sigur",
+      "file": "can16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/can16.jpg"
+    },
+    {
+      "num": "can17",
+      "name": "Tajon Buchanan",
+      "file": "can17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/can17.jpg"
+    },
+    {
+      "num": "can18",
+      "name": "Liam Millar",
+      "file": "can18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/can18.jpg"
+    },
+    {
+      "num": "can19",
+      "name": "Cyle Larin",
+      "file": "can19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/can19.jpg"
+    },
+    {
+      "num": "can20",
+      "name": "Jonathan David",
+      "file": "can20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/can20.jpg"
+    },
+    {
+      "num": "bih1",
+      "name": "Emblem",
+      "file": "bih1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bih1.jpg"
+    },
+    {
+      "num": "bih2",
+      "name": "Nikola Vasilj",
+      "file": "bih2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bih2.jpg"
+    },
+    {
+      "num": "bih3",
+      "name": "Amer Dedic",
+      "file": "bih3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bih3.jpg"
+    },
+    {
+      "num": "bih4",
+      "name": "Sead Kolasinac",
+      "file": "bih4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bih4.jpg"
+    },
+    {
+      "num": "bih5",
+      "name": "Tarik Muharemovic",
+      "file": "bih5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bih5.jpg"
+    },
+    {
+      "num": "bih6",
+      "name": "Nihad Mujakic",
+      "file": "bih6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bih6.jpg"
+    },
+    {
+      "num": "bih7",
+      "name": "Nikola Katic",
+      "file": "bih7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bih7.jpg"
+    },
+    {
+      "num": "bih8",
+      "name": "Amir Hadziahmetovic",
+      "file": "bih8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bih8.jpg"
+    },
+    {
+      "num": "bih9",
+      "name": "Benjamin Tahirovic",
+      "file": "bih9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bih9.jpg"
+    },
+    {
+      "num": "bih10",
+      "name": "Armin Gigovic",
+      "file": "bih10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bih10.jpg"
+    },
+    {
+      "num": "bih11",
+      "name": "Ivan Sunjic",
+      "file": "bih11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bih11.jpg"
+    },
+    {
+      "num": "bih12",
+      "name": "Ivan Basic",
+      "file": "bih12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bih12.jpg"
+    },
+    {
+      "num": "bih13",
+      "name": "Team Photo",
+      "file": "bih13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bih13.jpg"
+    },
+    {
+      "num": "bih14",
+      "name": "Dzenis Burnic",
+      "file": "bih14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bih14.jpg"
+    },
+    {
+      "num": "bih15",
+      "name": "Esmir Bajraktarevic",
+      "file": "bih15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bih15.jpg"
+    },
+    {
+      "num": "bih16",
+      "name": "Amar Memic",
+      "file": "bih16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bih16.jpg"
+    },
+    {
+      "num": "bih17",
+      "name": "Ermedin Demirovic",
+      "file": "bih17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bih17.jpg"
+    },
+    {
+      "num": "bih18",
+      "name": "Edin Dzeko",
+      "file": "bih18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bih18.jpg"
+    },
+    {
+      "num": "bih19",
+      "name": "Samed Bazdar",
+      "file": "bih19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bih19.jpg"
+    },
+    {
+      "num": "bih20",
+      "name": "Haris Tabakovic",
+      "file": "bih20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bih20.jpg"
+    },
+    {
+      "num": "qat1",
+      "name": "Emblem",
+      "file": "qat1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/qat1.jpg"
+    },
+    {
+      "num": "qat2",
+      "name": "Meshaal Barsham",
+      "file": "qat2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/qat2.jpg"
+    },
+    {
+      "num": "qat3",
+      "name": "Sultan Albrake",
+      "file": "qat3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/qat3.jpg"
+    },
+    {
+      "num": "qat4",
+      "name": "Lucas Mendes",
+      "file": "qat4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/qat4.jpg"
+    },
+    {
+      "num": "qat5",
+      "name": "Homam Ahmed",
+      "file": "qat5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/qat5.jpg"
+    },
+    {
+      "num": "qat6",
+      "name": "Boualem Khoukhi",
+      "file": "qat6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/qat6.jpg"
+    },
+    {
+      "num": "qat7",
+      "name": "Pedro Miguel",
+      "file": "qat7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/qat7.jpg"
+    },
+    {
+      "num": "qat8",
+      "name": "Tarek Salman",
+      "file": "qat8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/qat8.jpg"
+    },
+    {
+      "num": "qat9",
+      "name": "Mohamed Al-Mannai",
+      "file": "qat9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/qat9.jpg"
+    },
+    {
+      "num": "qat10",
+      "name": "Karim Boudiaf",
+      "file": "qat10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/qat10.jpg"
+    },
+    {
+      "num": "qat11",
+      "name": "Assim Madibo",
+      "file": "qat11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/qat11.jpg"
+    },
+    {
+      "num": "qat12",
+      "name": "Ahmed Fatehi",
+      "file": "qat12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/qat12.jpg"
+    },
+    {
+      "num": "qat13",
+      "name": "Team Photo",
+      "file": "qat13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/qat13.jpg"
+    },
+    {
+      "num": "qat14",
+      "name": "Mohammed Waad",
+      "file": "qat14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/qat14.jpg"
+    },
+    {
+      "num": "qat15",
+      "name": "Abdulaziz Hatem",
+      "file": "qat15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/qat15.jpg"
+    },
+    {
+      "num": "qat16",
+      "name": "Hassan Al-Haydos",
+      "file": "qat16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/qat16.jpg"
+    },
+    {
+      "num": "qat17",
+      "name": "Edmilson Junior",
+      "file": "qat17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/qat17.jpg"
+    },
+    {
+      "num": "qat18",
+      "name": "Akram Hassan Afif",
+      "file": "qat18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/qat18.jpg"
+    },
+    {
+      "num": "qat19",
+      "name": "Ahmed Al Ganehi",
+      "file": "qat19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/qat19.jpg"
+    },
+    {
+      "num": "qat20",
+      "name": "Almoez Ali",
+      "file": "qat20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/qat20.jpg"
+    },
+    {
+      "num": "sui1",
+      "name": "Emblem",
+      "file": "sui1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sui1.jpg"
+    },
+    {
+      "num": "sui2",
+      "name": "Gregor Kobel",
+      "file": "sui2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sui2.jpg"
+    },
+    {
+      "num": "sui3",
+      "name": "Yvon Mvogo",
+      "file": "sui3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sui3.jpg"
+    },
+    {
+      "num": "sui4",
+      "name": "Manuel Akanji",
+      "file": "sui4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sui4.jpg"
+    },
+    {
+      "num": "sui5",
+      "name": "Ricardo Rodriguez",
+      "file": "sui5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sui5.jpg"
+    },
+    {
+      "num": "sui6",
+      "name": "Nico Elvedi",
+      "file": "sui6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sui6.jpg"
+    },
+    {
+      "num": "sui7",
+      "name": "Aur\u00e8le Amenda",
+      "file": "sui7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sui7.jpg"
+    },
+    {
+      "num": "sui8",
+      "name": "Silvan Widmer",
+      "file": "sui8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sui8.jpg"
+    },
+    {
+      "num": "sui9",
+      "name": "Granit Xhaka",
+      "file": "sui9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sui9.jpg"
+    },
+    {
+      "num": "sui10",
+      "name": "Denis Zakaria",
+      "file": "sui10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sui10.jpg"
+    },
+    {
+      "num": "sui11",
+      "name": "Remo Freuler",
+      "file": "sui11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sui11.jpg"
+    },
+    {
+      "num": "sui12",
+      "name": "Fabian Rieder",
+      "file": "sui12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sui12.jpg"
+    },
+    {
+      "num": "sui13",
+      "name": "Team Photo",
+      "file": "sui13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sui13.jpg"
+    },
+    {
+      "num": "sui14",
+      "name": "Ardon Jashari",
+      "file": "sui14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sui14.jpg"
+    },
+    {
+      "num": "sui15",
+      "name": "Johan Manzambi",
+      "file": "sui15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sui15.jpg"
+    },
+    {
+      "num": "sui16",
+      "name": "Michel Aebischer",
+      "file": "sui16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sui16.jpg"
+    },
+    {
+      "num": "sui17",
+      "name": "Breel Embolo",
+      "file": "sui17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sui17.jpg"
+    },
+    {
+      "num": "sui18",
+      "name": "Ruben Vargas",
+      "file": "sui18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sui18.jpg"
+    },
+    {
+      "num": "sui19",
+      "name": "Dan Ndoye",
+      "file": "sui19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sui19.jpg"
+    },
+    {
+      "num": "sui20",
+      "name": "Zeki Amdouni",
+      "file": "sui20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sui20.jpg"
+    },
+    {
+      "num": "bra1",
+      "name": "Emblem",
+      "file": "bra1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bra1.jpg"
+    },
+    {
+      "num": "bra2",
+      "name": "Alisson",
+      "file": "bra2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bra2.jpg"
+    },
+    {
+      "num": "bra3",
+      "name": "Bento",
+      "file": "bra3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bra3.jpg"
+    },
+    {
+      "num": "bra4",
+      "name": "Marquinhos",
+      "file": "bra4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bra4.jpg"
+    },
+    {
+      "num": "bra5",
+      "name": "\u00c9der Milit\u00e3o",
+      "file": "bra5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bra5.jpg"
+    },
+    {
+      "num": "bra6",
+      "name": "Gabriel Magalh\u00e3es",
+      "file": "bra6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bra6.jpg"
+    },
+    {
+      "num": "bra7",
+      "name": "Danilo",
+      "file": "bra7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bra7.jpg"
+    },
+    {
+      "num": "bra8",
+      "name": "Wesley",
+      "file": "bra8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bra8.jpg"
+    },
+    {
+      "num": "bra9",
+      "name": "Lucas Paquet\u00e1",
+      "file": "bra9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bra9.jpg"
+    },
+    {
+      "num": "bra10",
+      "name": "Casemiro",
+      "file": "bra10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bra10.jpg"
+    },
+    {
+      "num": "bra11",
+      "name": "Bruno Guimar\u00e3es",
+      "file": "bra11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bra11.jpg"
+    },
+    {
+      "num": "bra12",
+      "name": "Luiz Henrique",
+      "file": "bra12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bra12.jpg"
+    },
+    {
+      "num": "bra13",
+      "name": "Team Photo",
+      "file": "bra13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bra13.jpg"
+    },
+    {
+      "num": "bra14",
+      "name": "Vinicius J\u00fanior",
+      "file": "bra14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bra14.jpg"
+    },
+    {
+      "num": "bra15",
+      "name": "Rodrygo",
+      "file": "bra15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bra15.jpg"
+    },
+    {
+      "num": "bra16",
+      "name": "Jo\u00e3o Pedro",
+      "file": "bra16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bra16.jpg"
+    },
+    {
+      "num": "bra17",
+      "name": "Matheus Cunha",
+      "file": "bra17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bra17.jpg"
+    },
+    {
+      "num": "bra18",
+      "name": "Gabriel Martinelli",
+      "file": "bra18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bra18.jpg"
+    },
+    {
+      "num": "bra19",
+      "name": "Raphinha",
+      "file": "bra19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bra19.jpg"
+    },
+    {
+      "num": "bra20",
+      "name": "Est\u00e9v\u00e3o",
+      "file": "bra20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bra20.jpg"
+    },
+    {
+      "num": "mar1",
+      "name": "Emblem",
+      "file": "mar1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/mar1.jpg"
+    },
+    {
+      "num": "mar2",
+      "name": "Yassine Bounou",
+      "file": "mar2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/mar2.jpg"
+    },
+    {
+      "num": "mar3",
+      "name": "Munir El Kajoui",
+      "file": "mar3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/mar3.jpg"
+    },
+    {
+      "num": "mar4",
+      "name": "Achraf Hakimi",
+      "file": "mar4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/mar4.jpg"
+    },
+    {
+      "num": "mar5",
+      "name": "Noussair Mazraoui",
+      "file": "mar5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/mar5.jpg"
+    },
+    {
+      "num": "mar6",
+      "name": "Nayef Aguerd",
+      "file": "mar6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/mar6.jpg"
+    },
+    {
+      "num": "mar7",
+      "name": "Romain Sa\u00efss",
+      "file": "mar7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/mar7.jpg"
+    },
+    {
+      "num": "mar8",
+      "name": "Jawad El Yamiq",
+      "file": "mar8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/mar8.jpg"
+    },
+    {
+      "num": "mar9",
+      "name": "Adam Masina",
+      "file": "mar9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/mar9.jpg"
+    },
+    {
+      "num": "mar10",
+      "name": "Sofyan Amrabat",
+      "file": "mar10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/mar10.jpg"
+    },
+    {
+      "num": "mar11",
+      "name": "Azzedine Ounahi",
+      "file": "mar11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/mar11.jpg"
+    },
+    {
+      "num": "mar12",
+      "name": "Eliesse Ben Seghir",
+      "file": "mar12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/mar12.jpg"
+    },
+    {
+      "num": "mar13",
+      "name": "Team Photo",
+      "file": "mar13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/mar13.jpg"
+    },
+    {
+      "num": "mar14",
+      "name": "Bilal El Khannouss",
+      "file": "mar14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/mar14.jpg"
+    },
+    {
+      "num": "mar15",
+      "name": "Ismael Saibari",
+      "file": "mar15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/mar15.jpg"
+    },
+    {
+      "num": "mar16",
+      "name": "Youssef En-Nesyri",
+      "file": "mar16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/mar16.jpg"
+    },
+    {
+      "num": "mar17",
+      "name": "Abde Ezzalzouli",
+      "file": "mar17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/mar17.jpg"
+    },
+    {
+      "num": "mar18",
+      "name": "Soufiane Rahimi",
+      "file": "mar18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/mar18.jpg"
+    },
+    {
+      "num": "mar19",
+      "name": "Brahim Diaz",
+      "file": "mar19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/mar19.jpg"
+    },
+    {
+      "num": "mar20",
+      "name": "Ayoub El Kaabi",
+      "file": "mar20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/mar20.jpg"
+    },
+    {
+      "num": "hai1",
+      "name": "Emblem",
+      "file": "hai1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/hai1.jpg"
+    },
+    {
+      "num": "hai2",
+      "name": "Johny Placide",
+      "file": "hai2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/hai2.jpg"
+    },
+    {
+      "num": "hai3",
+      "name": "Carlens Arcus",
+      "file": "hai3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/hai3.jpg"
+    },
+    {
+      "num": "hai4",
+      "name": "Martin Exp\u00e9rience",
+      "file": "hai4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/hai4.jpg"
+    },
+    {
+      "num": "hai5",
+      "name": "Jean-Kevin Duverne",
+      "file": "hai5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/hai5.jpg"
+    },
+    {
+      "num": "hai6",
+      "name": "Ricardo Ad\u00e9",
+      "file": "hai6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/hai6.jpg"
+    },
+    {
+      "num": "hai7",
+      "name": "Duke Lacroix",
+      "file": "hai7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/hai7.jpg"
+    },
+    {
+      "num": "hai8",
+      "name": "Garven Metusala",
+      "file": "hai8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/hai8.jpg"
+    },
+    {
+      "num": "hai9",
+      "name": "Hannes Delcroix",
+      "file": "hai9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/hai9.jpg"
+    },
+    {
+      "num": "hai10",
+      "name": "Leverton Pierre",
+      "file": "hai10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/hai10.jpg"
+    },
+    {
+      "num": "hai11",
+      "name": "Danley Jean Jacques",
+      "file": "hai11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/hai11.jpg"
+    },
+    {
+      "num": "hai12",
+      "name": "Jean-Ricner Bellegarde",
+      "file": "hai12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/hai12.jpg"
+    },
+    {
+      "num": "hai13",
+      "name": "Team Photo",
+      "file": "hai13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/hai13.jpg"
+    },
+    {
+      "num": "hai14",
+      "name": "Christopher Attys",
+      "file": "hai14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/hai14.jpg"
+    },
+    {
+      "num": "hai15",
+      "name": "Derrick Etienne Jr",
+      "file": "hai15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/hai15.jpg"
+    },
+    {
+      "num": "hai16",
+      "name": "Josue Casimir",
+      "file": "hai16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/hai16.jpg"
+    },
+    {
+      "num": "hai17",
+      "name": "Ruben Providence",
+      "file": "hai17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/hai17.jpg"
+    },
+    {
+      "num": "hai18",
+      "name": "Duckens Nazon",
+      "file": "hai18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/hai18.jpg"
+    },
+    {
+      "num": "hai19",
+      "name": "Louicius Deedson",
+      "file": "hai19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/hai19.jpg"
+    },
+    {
+      "num": "hai20",
+      "name": "Frantzdy Pierrot",
+      "file": "hai20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/hai20.jpg"
+    },
+    {
+      "num": "sco1",
+      "name": "Emblem",
+      "file": "sco1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sco1.jpg"
+    },
+    {
+      "num": "sco2",
+      "name": "Angus Gunn",
+      "file": "sco2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sco2.jpg"
+    },
+    {
+      "num": "sco3",
+      "name": "Jack Hendry",
+      "file": "sco3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sco3.jpg"
+    },
+    {
+      "num": "sco4",
+      "name": "Kieran Tierney",
+      "file": "sco4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sco4.jpg"
+    },
+    {
+      "num": "sco5",
+      "name": "Aaron Hickey",
+      "file": "sco5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sco5.jpg"
+    },
+    {
+      "num": "sco6",
+      "name": "Andrew Robertson",
+      "file": "sco6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sco6.jpg"
+    },
+    {
+      "num": "sco7",
+      "name": "Scott McKenna",
+      "file": "sco7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sco7.jpg"
+    },
+    {
+      "num": "sco8",
+      "name": "John Souttar",
+      "file": "sco8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sco8.jpg"
+    },
+    {
+      "num": "sco9",
+      "name": "Anthony Ralston",
+      "file": "sco9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sco9.jpg"
+    },
+    {
+      "num": "sco10",
+      "name": "Grant Hanley",
+      "file": "sco10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sco10.jpg"
+    },
+    {
+      "num": "sco11",
+      "name": "Scott McTominay",
+      "file": "sco11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sco11.jpg"
+    },
+    {
+      "num": "sco12",
+      "name": "Billy Gilmour",
+      "file": "sco12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sco12.jpg"
+    },
+    {
+      "num": "sco13",
+      "name": "Team Photo",
+      "file": "sco13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sco13.jpg"
+    },
+    {
+      "num": "sco14",
+      "name": "Lewis Ferguson",
+      "file": "sco14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sco14.jpg"
+    },
+    {
+      "num": "sco15",
+      "name": "Ryan Christie",
+      "file": "sco15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sco15.jpg"
+    },
+    {
+      "num": "sco16",
+      "name": "Kenny McLean",
+      "file": "sco16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sco16.jpg"
+    },
+    {
+      "num": "sco17",
+      "name": "John McGinn",
+      "file": "sco17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sco17.jpg"
+    },
+    {
+      "num": "sco18",
+      "name": "Lyndon Dykes",
+      "file": "sco18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sco18.jpg"
+    },
+    {
+      "num": "sco19",
+      "name": "Che Adams",
+      "file": "sco19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sco19.jpg"
+    },
+    {
+      "num": "sco20",
+      "name": "Ben Gannon-Doak",
+      "file": "sco20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sco20.jpg"
+    },
+    {
+      "num": "usa1",
+      "name": "Emblem",
+      "file": "usa1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/usa1.jpg"
+    },
+    {
+      "num": "usa2",
+      "name": "Matt Freese",
+      "file": "usa2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/usa2.jpg"
+    },
+    {
+      "num": "usa3",
+      "name": "Chris Richards",
+      "file": "usa3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/usa3.jpg"
+    },
+    {
+      "num": "usa4",
+      "name": "Tim Ream",
+      "file": "usa4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/usa4.jpg"
+    },
+    {
+      "num": "usa5",
+      "name": "Mark McKenzie",
+      "file": "usa5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/usa5.jpg"
+    },
+    {
+      "num": "usa6",
+      "name": "Alex Freeman",
+      "file": "usa6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/usa6.jpg"
+    },
+    {
+      "num": "usa7",
+      "name": "Antonee Robinson",
+      "file": "usa7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/usa7.jpg"
+    },
+    {
+      "num": "usa8",
+      "name": "Tyler Adams",
+      "file": "usa8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/usa8.jpg"
+    },
+    {
+      "num": "usa9",
+      "name": "Tanner Tessmann",
+      "file": "usa9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/usa9.jpg"
+    },
+    {
+      "num": "usa10",
+      "name": "Weston McKenny",
+      "file": "usa10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/usa10.jpg"
+    },
+    {
+      "num": "usa11",
+      "name": "Christian Roldan",
+      "file": "usa11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/usa11.jpg"
+    },
+    {
+      "num": "usa12",
+      "name": "Timothy Weah",
+      "file": "usa12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/usa12.jpg"
+    },
+    {
+      "num": "usa13",
+      "name": "Team Photo",
+      "file": "usa13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/usa13.jpg"
+    },
+    {
+      "num": "usa14",
+      "name": "Diego Luna",
+      "file": "usa14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/usa14.jpg"
+    },
+    {
+      "num": "usa15",
+      "name": "Malik Tillman",
+      "file": "usa15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/usa15.jpg"
+    },
+    {
+      "num": "usa16",
+      "name": "Christian Pulisic",
+      "file": "usa16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/usa16.jpg"
+    },
+    {
+      "num": "usa17",
+      "name": "Brenden Aaronson",
+      "file": "usa17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/usa17.jpg"
+    },
+    {
+      "num": "usa18",
+      "name": "Ricardo Pepi",
+      "file": "usa18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/usa18.jpg"
+    },
+    {
+      "num": "usa19",
+      "name": "Haji Wright",
+      "file": "usa19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/usa19.jpg"
+    },
+    {
+      "num": "usa20",
+      "name": "Folarin Balogun",
+      "file": "usa20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/usa20.jpg"
+    },
+    {
+      "num": "par1",
+      "name": "Emblem",
+      "file": "par1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/par1.jpg"
+    },
+    {
+      "num": "par2",
+      "name": "Roberto Fernandez",
+      "file": "par2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/par2.jpg"
+    },
+    {
+      "num": "par3",
+      "name": "Orlando Gill",
+      "file": "par3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/par3.jpg"
+    },
+    {
+      "num": "par4",
+      "name": "Gustavo Gomez",
+      "file": "par4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/par4.jpg"
+    },
+    {
+      "num": "par5",
+      "name": "Fabi\u00e1n Balbuena",
+      "file": "par5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/par5.jpg"
+    },
+    {
+      "num": "par6",
+      "name": "Juan Jos\u00e9 C\u00e1ceres",
+      "file": "par6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/par6.jpg"
+    },
+    {
+      "num": "par7",
+      "name": "Omar Alderete",
+      "file": "par7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/par7.jpg"
+    },
+    {
+      "num": "par8",
+      "name": "Junior Alonso",
+      "file": "par8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/par8.jpg"
+    },
+    {
+      "num": "par9",
+      "name": "Math\u00edas Villasanti",
+      "file": "par9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/par9.jpg"
+    },
+    {
+      "num": "par10",
+      "name": "Diego Gomez",
+      "file": "par10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/par10.jpg"
+    },
+    {
+      "num": "par11",
+      "name": "Dami\u00e1n Bobadilla",
+      "file": "par11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/par11.jpg"
+    },
+    {
+      "num": "par12",
+      "name": "Andres Cubas",
+      "file": "par12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/par12.jpg"
+    },
+    {
+      "num": "par13",
+      "name": "Team Photo",
+      "file": "par13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/par13.jpg"
+    },
+    {
+      "num": "par14",
+      "name": "Matias Galarza Fonda",
+      "file": "par14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/par14.jpg"
+    },
+    {
+      "num": "par15",
+      "name": "Julio Enciso",
+      "file": "par15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/par15.jpg"
+    },
+    {
+      "num": "par16",
+      "name": "Alejandro Romero Gamarra",
+      "file": "par16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/par16.jpg"
+    },
+    {
+      "num": "par17",
+      "name": "Miguel Almir\u00f3n",
+      "file": "par17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/par17.jpg"
+    },
+    {
+      "num": "par18",
+      "name": "Ramon Sosa",
+      "file": "par18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/par18.jpg"
+    },
+    {
+      "num": "par19",
+      "name": "Angel Romero",
+      "file": "par19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/par19.jpg"
+    },
+    {
+      "num": "par20",
+      "name": "Antonio Sanabria",
+      "file": "par20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/par20.jpg"
+    },
+    {
+      "num": "aus1",
+      "name": "Emblem",
+      "file": "aus1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/aus1.jpg"
+    },
+    {
+      "num": "aus2",
+      "name": "Mathew Ryan",
+      "file": "aus2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/aus2.jpg"
+    },
+    {
+      "num": "aus3",
+      "name": "Joe Gauci",
+      "file": "aus3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/aus3.jpg"
+    },
+    {
+      "num": "aus4",
+      "name": "Harry Souttar",
+      "file": "aus4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/aus4.jpg"
+    },
+    {
+      "num": "aus5",
+      "name": "Alessandro Circati",
+      "file": "aus5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/aus5.jpg"
+    },
+    {
+      "num": "aus6",
+      "name": "Jordan Bos",
+      "file": "aus6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/aus6.jpg"
+    },
+    {
+      "num": "aus7",
+      "name": "Aziz Behich",
+      "file": "aus7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/aus7.jpg"
+    },
+    {
+      "num": "aus8",
+      "name": "Cameron Burgess",
+      "file": "aus8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/aus8.jpg"
+    },
+    {
+      "num": "aus9",
+      "name": "Lewis Miller",
+      "file": "aus9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/aus9.jpg"
+    },
+    {
+      "num": "aus10",
+      "name": "Milos Degenek",
+      "file": "aus10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/aus10.jpg"
+    },
+    {
+      "num": "aus11",
+      "name": "Jackson Irvine",
+      "file": "aus11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/aus11.jpg"
+    },
+    {
+      "num": "aus12",
+      "name": "Riley McGree",
+      "file": "aus12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/aus12.jpg"
+    },
+    {
+      "num": "aus13",
+      "name": "Team Photo",
+      "file": "aus13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/aus13.jpg"
+    },
+    {
+      "num": "aus14",
+      "name": "Aiden O'Neill",
+      "file": "aus14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/aus14.jpg"
+    },
+    {
+      "num": "aus15",
+      "name": "Connor Metcalfe",
+      "file": "aus15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/aus15.jpg"
+    },
+    {
+      "num": "aus16",
+      "name": "Patrick Yazbek",
+      "file": "aus16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/aus16.jpg"
+    },
+    {
+      "num": "aus17",
+      "name": "Craig Goodwin",
+      "file": "aus17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/aus17.jpg"
+    },
+    {
+      "num": "aus18",
+      "name": "Kusini Yengi",
+      "file": "aus18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/aus18.jpg"
+    },
+    {
+      "num": "aus19",
+      "name": "Nestory Irankunda",
+      "file": "aus19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/aus19.jpg"
+    },
+    {
+      "num": "aus20",
+      "name": "Mohamed Tour\u00e9",
+      "file": "aus20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/aus20.jpg"
+    },
+    {
+      "num": "tur1",
+      "name": "Emblem",
+      "file": "tur1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/tur1.jpg"
+    },
+    {
+      "num": "tur2",
+      "name": "Ugurcan Cakir",
+      "file": "tur2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/tur2.jpg"
+    },
+    {
+      "num": "tur3",
+      "name": "Mert Muldur",
+      "file": "tur3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/tur3.jpg"
+    },
+    {
+      "num": "tur4",
+      "name": "Zeki Celik",
+      "file": "tur4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/tur4.jpg"
+    },
+    {
+      "num": "tur5",
+      "name": "Abdulkerim Bardakci",
+      "file": "tur5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/tur5.jpg"
+    },
+    {
+      "num": "tur6",
+      "name": "Caglar Soyuncu",
+      "file": "tur6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/tur6.jpg"
+    },
+    {
+      "num": "tur7",
+      "name": "Merih Demiral",
+      "file": "tur7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/tur7.jpg"
+    },
+    {
+      "num": "tur8",
+      "name": "Ferdi Kadioglu",
+      "file": "tur8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/tur8.jpg"
+    },
+    {
+      "num": "tur9",
+      "name": "Kaan Ayhan",
+      "file": "tur9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/tur9.jpg"
+    },
+    {
+      "num": "tur10",
+      "name": "Ismail Yuksek",
+      "file": "tur10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/tur10.jpg"
+    },
+    {
+      "num": "tur11",
+      "name": "Hakan Calhanoglu",
+      "file": "tur11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/tur11.jpg"
+    },
+    {
+      "num": "tur12",
+      "name": "Orkun Kokcu",
+      "file": "tur12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/tur12.jpg"
+    },
+    {
+      "num": "tur13",
+      "name": "Team Photo",
+      "file": "tur13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/tur13.jpg"
+    },
+    {
+      "num": "tur14",
+      "name": "Arda Guler",
+      "file": "tur14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/tur14.jpg"
+    },
+    {
+      "num": "tur15",
+      "name": "Irfan Can Kahveci",
+      "file": "tur15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/tur15.jpg"
+    },
+    {
+      "num": "tur16",
+      "name": "Yunus Akgun",
+      "file": "tur16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/tur16.jpg"
+    },
+    {
+      "num": "tur17",
+      "name": "Can Uzun",
+      "file": "tur17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/tur17.jpg"
+    },
+    {
+      "num": "tur18",
+      "name": "Baris Alper Yilmaz",
+      "file": "tur18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/tur18.jpg"
+    },
+    {
+      "num": "tur19",
+      "name": "Kerem Akturkoglu",
+      "file": "tur19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/tur19.jpg"
+    },
+    {
+      "num": "tur20",
+      "name": "Kenan Yildiz",
+      "file": "tur20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/tur20.jpg"
+    },
+    {
+      "num": "ger1",
+      "name": "Emblem",
+      "file": "ger1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ger1.jpg"
+    },
+    {
+      "num": "ger2",
+      "name": "Marc-Andr\u00e9 ter Stegen",
+      "file": "ger2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ger2.jpg"
+    },
+    {
+      "num": "ger3",
+      "name": "Jonathan Tah",
+      "file": "ger3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ger3.jpg"
+    },
+    {
+      "num": "ger4",
+      "name": "David Raum",
+      "file": "ger4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ger4.jpg"
+    },
+    {
+      "num": "ger5",
+      "name": "Nico Schlotterbeck",
+      "file": "ger5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ger5.jpg"
+    },
+    {
+      "num": "ger6",
+      "name": "Antonio R\u00fcdiger",
+      "file": "ger6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ger6.jpg"
+    },
+    {
+      "num": "ger7",
+      "name": "Waldemar Anton",
+      "file": "ger7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ger7.jpg"
+    },
+    {
+      "num": "ger8",
+      "name": "Ridle Baku",
+      "file": "ger8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ger8.jpg"
+    },
+    {
+      "num": "ger9",
+      "name": "Maximilian Mittelstadt",
+      "file": "ger9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ger9.jpg"
+    },
+    {
+      "num": "ger10",
+      "name": "Joshua Kimmich",
+      "file": "ger10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ger10.jpg"
+    },
+    {
+      "num": "ger11",
+      "name": "Florian Wirtz",
+      "file": "ger11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ger11.jpg"
+    },
+    {
+      "num": "ger12",
+      "name": "Felix Nmecha",
+      "file": "ger12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ger12.jpg"
+    },
+    {
+      "num": "ger13",
+      "name": "Team Photo",
+      "file": "ger13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ger13.jpg"
+    },
+    {
+      "num": "ger14",
+      "name": "Leon Goretzka",
+      "file": "ger14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ger14.jpg"
+    },
+    {
+      "num": "ger15",
+      "name": "Jamal Musiala",
+      "file": "ger15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ger15.jpg"
+    },
+    {
+      "num": "ger16",
+      "name": "Serge Gnabry",
+      "file": "ger16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ger16.jpg"
+    },
+    {
+      "num": "ger17",
+      "name": "Kai Havertz",
+      "file": "ger17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ger17.jpg"
+    },
+    {
+      "num": "ger18",
+      "name": "Leroy Sane",
+      "file": "ger18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ger18.jpg"
+    },
+    {
+      "num": "ger19",
+      "name": "Karim Adeyemi",
+      "file": "ger19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ger19.jpg"
+    },
+    {
+      "num": "ger20",
+      "name": "Nick Woltemade",
+      "file": "ger20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ger20.jpg"
+    },
+    {
+      "num": "cuw1",
+      "name": "Emblem",
+      "file": "cuw1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cuw1.jpg"
+    },
+    {
+      "num": "cuw2",
+      "name": "Eloy Room",
+      "file": "cuw2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cuw2.jpg"
+    },
+    {
+      "num": "cuw3",
+      "name": "Armando Obispo",
+      "file": "cuw3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cuw3.jpg"
+    },
+    {
+      "num": "cuw4",
+      "name": "Sherel Floranus",
+      "file": "cuw4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cuw4.jpg"
+    },
+    {
+      "num": "cuw5",
+      "name": "Jurien Gaari",
+      "file": "cuw5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cuw5.jpg"
+    },
+    {
+      "num": "cuw6",
+      "name": "Joshua Brenet",
+      "file": "cuw6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cuw6.jpg"
+    },
+    {
+      "num": "cuw7",
+      "name": "Roshon Van Eijma",
+      "file": "cuw7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cuw7.jpg"
+    },
+    {
+      "num": "cuw8",
+      "name": "Shurandy Sambo",
+      "file": "cuw8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cuw8.jpg"
+    },
+    {
+      "num": "cuw9",
+      "name": "Livano Comenencia",
+      "file": "cuw9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cuw9.jpg"
+    },
+    {
+      "num": "cuw10",
+      "name": "Godfried Roemeratoe",
+      "file": "cuw10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cuw10.jpg"
+    },
+    {
+      "num": "cuw11",
+      "name": "Juninho Bacuna",
+      "file": "cuw11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cuw11.jpg"
+    },
+    {
+      "num": "cuw12",
+      "name": "Leandro Bacuna",
+      "file": "cuw12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cuw12.jpg"
+    },
+    {
+      "num": "cuw13",
+      "name": "Team Photo",
+      "file": "cuw13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cuw13.jpg"
+    },
+    {
+      "num": "cuw14",
+      "name": "Tahith Chong",
+      "file": "cuw14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cuw14.jpg"
+    },
+    {
+      "num": "cuw15",
+      "name": "Kenji Gorre",
+      "file": "cuw15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cuw15.jpg"
+    },
+    {
+      "num": "cuw16",
+      "name": "Jearl Margaritha",
+      "file": "cuw16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cuw16.jpg"
+    },
+    {
+      "num": "cuw17",
+      "name": "Jurgen Locadia",
+      "file": "cuw17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cuw17.jpg"
+    },
+    {
+      "num": "cuw18",
+      "name": "Jeremy Antonisse",
+      "file": "cuw18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cuw18.jpg"
+    },
+    {
+      "num": "cuw19",
+      "name": "Gervane Kastaneer",
+      "file": "cuw19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cuw19.jpg"
+    },
+    {
+      "num": "cuw20",
+      "name": "Sontje Hansen",
+      "file": "cuw20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cuw20.jpg"
+    },
+    {
+      "num": "civ1",
+      "name": "Emblem",
+      "file": "civ1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/civ1.jpg"
+    },
+    {
+      "num": "civ2",
+      "name": "Yahia Fofana",
+      "file": "civ2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/civ2.jpg"
+    },
+    {
+      "num": "civ3",
+      "name": "Ghislain Konan",
+      "file": "civ3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/civ3.jpg"
+    },
+    {
+      "num": "civ4",
+      "name": "Wilfried Singo",
+      "file": "civ4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/civ4.jpg"
+    },
+    {
+      "num": "civ5",
+      "name": "Odilon Kossounou",
+      "file": "civ5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/civ5.jpg"
+    },
+    {
+      "num": "civ6",
+      "name": "Evan Ndicka",
+      "file": "civ6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/civ6.jpg"
+    },
+    {
+      "num": "civ7",
+      "name": "Willy Boly",
+      "file": "civ7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/civ7.jpg"
+    },
+    {
+      "num": "civ8",
+      "name": "Emmanuel Agbadou",
+      "file": "civ8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/civ8.jpg"
+    },
+    {
+      "num": "civ9",
+      "name": "Ousmane Diomande",
+      "file": "civ9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/civ9.jpg"
+    },
+    {
+      "num": "civ10",
+      "name": "Franck Kessie",
+      "file": "civ10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/civ10.jpg"
+    },
+    {
+      "num": "civ11",
+      "name": "Seko Fofana",
+      "file": "civ11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/civ11.jpg"
+    },
+    {
+      "num": "civ12",
+      "name": "Ibrahim Sangare",
+      "file": "civ12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/civ12.jpg"
+    },
+    {
+      "num": "civ13",
+      "name": "Team Photo",
+      "file": "civ13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/civ13.jpg"
+    },
+    {
+      "num": "civ14",
+      "name": "Jean-Philippe Gbamin",
+      "file": "civ14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/civ14.jpg"
+    },
+    {
+      "num": "civ15",
+      "name": "Amad Diallo",
+      "file": "civ15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/civ15.jpg"
+    },
+    {
+      "num": "civ16",
+      "name": "S\u00e9bastien Haller",
+      "file": "civ16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/civ16.jpg"
+    },
+    {
+      "num": "civ17",
+      "name": "Simon Adingra",
+      "file": "civ17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/civ17.jpg"
+    },
+    {
+      "num": "civ18",
+      "name": "Yan Diomande",
+      "file": "civ18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/civ18.jpg"
+    },
+    {
+      "num": "civ19",
+      "name": "Evann Guessand",
+      "file": "civ19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/civ19.jpg"
+    },
+    {
+      "num": "civ20",
+      "name": "Oumar Diakite",
+      "file": "civ20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/civ20.jpg"
+    },
+    {
+      "num": "ecu1",
+      "name": "Emblem",
+      "file": "ecu1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ecu1.jpg"
+    },
+    {
+      "num": "ecu2",
+      "name": "Hern\u00e1n Gal\u00edndez",
+      "file": "ecu2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ecu2.jpg"
+    },
+    {
+      "num": "ecu3",
+      "name": "Gonzalo Valle",
+      "file": "ecu3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ecu3.jpg"
+    },
+    {
+      "num": "ecu4",
+      "name": "Piero Hincapi\u00e9",
+      "file": "ecu4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ecu4.jpg"
+    },
+    {
+      "num": "ecu5",
+      "name": "Pervis Estupi\u00f1\u00e1n",
+      "file": "ecu5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ecu5.jpg"
+    },
+    {
+      "num": "ecu6",
+      "name": "Willian Pacho",
+      "file": "ecu6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ecu6.jpg"
+    },
+    {
+      "num": "ecu7",
+      "name": "\u00c1ngelo Preciado",
+      "file": "ecu7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ecu7.jpg"
+    },
+    {
+      "num": "ecu8",
+      "name": "Joel Ord\u00f3\u00f1ez",
+      "file": "ecu8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ecu8.jpg"
+    },
+    {
+      "num": "ecu9",
+      "name": "Moises Caicedo",
+      "file": "ecu9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ecu9.jpg"
+    },
+    {
+      "num": "ecu10",
+      "name": "Alan Franco",
+      "file": "ecu10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ecu10.jpg"
+    },
+    {
+      "num": "ecu11",
+      "name": "Kendry Paez",
+      "file": "ecu11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ecu11.jpg"
+    },
+    {
+      "num": "ecu12",
+      "name": "Pedro Vite",
+      "file": "ecu12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ecu12.jpg"
+    },
+    {
+      "num": "ecu13",
+      "name": "Team Photo",
+      "file": "ecu13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ecu13.jpg"
+    },
+    {
+      "num": "ecu14",
+      "name": "John Yeboah",
+      "file": "ecu14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ecu14.jpg"
+    },
+    {
+      "num": "ecu15",
+      "name": "Leonardo Campana",
+      "file": "ecu15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ecu15.jpg"
+    },
+    {
+      "num": "ecu16",
+      "name": "Gonzalo Plata",
+      "file": "ecu16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ecu16.jpg"
+    },
+    {
+      "num": "ecu17",
+      "name": "Nilson Angulo",
+      "file": "ecu17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ecu17.jpg"
+    },
+    {
+      "num": "ecu18",
+      "name": "Alan Minda",
+      "file": "ecu18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ecu18.jpg"
+    },
+    {
+      "num": "ecu19",
+      "name": "Kevin Rodriguez",
+      "file": "ecu19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ecu19.jpg"
+    },
+    {
+      "num": "ecu20",
+      "name": "Enner Valencia",
+      "file": "ecu20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ecu20.jpg"
+    },
+    {
+      "num": "ned1",
+      "name": "Emblem",
+      "file": "ned1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ned1.jpg"
+    },
+    {
+      "num": "ned2",
+      "name": "Bart Verbruggen",
+      "file": "ned2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ned2.jpg"
+    },
+    {
+      "num": "ned3",
+      "name": "Virgil van Dijk",
+      "file": "ned3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ned3.jpg"
+    },
+    {
+      "num": "ned4",
+      "name": "Micky van de Ven",
+      "file": "ned4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ned4.jpg"
+    },
+    {
+      "num": "ned5",
+      "name": "Jurrien Timber",
+      "file": "ned5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ned5.jpg"
+    },
+    {
+      "num": "ned6",
+      "name": "Denzel Dumfries",
+      "file": "ned6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ned6.jpg"
+    },
+    {
+      "num": "ned7",
+      "name": "Nathan Ak\u00e9",
+      "file": "ned7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ned7.jpg"
+    },
+    {
+      "num": "ned8",
+      "name": "Jeremie Frimpong",
+      "file": "ned8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ned8.jpg"
+    },
+    {
+      "num": "ned9",
+      "name": "Jan Paul van Hecke",
+      "file": "ned9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ned9.jpg"
+    },
+    {
+      "num": "ned10",
+      "name": "Tijjani Reijnders",
+      "file": "ned10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ned10.jpg"
+    },
+    {
+      "num": "ned11",
+      "name": "Ryan Gravenberch",
+      "file": "ned11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ned11.jpg"
+    },
+    {
+      "num": "ned12",
+      "name": "Teun Koopmeiners",
+      "file": "ned12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ned12.jpg"
+    },
+    {
+      "num": "ned13",
+      "name": "Team Photo",
+      "file": "ned13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ned13.jpg"
+    },
+    {
+      "num": "ned14",
+      "name": "Frenkie de Jong",
+      "file": "ned14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ned14.jpg"
+    },
+    {
+      "num": "ned15",
+      "name": "Xavi Simons",
+      "file": "ned15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ned15.jpg"
+    },
+    {
+      "num": "ned16",
+      "name": "Justin Kluivert",
+      "file": "ned16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ned16.jpg"
+    },
+    {
+      "num": "ned17",
+      "name": "Memphis Depay",
+      "file": "ned17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ned17.jpg"
+    },
+    {
+      "num": "ned18",
+      "name": "Donyell Malen",
+      "file": "ned18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ned18.jpg"
+    },
+    {
+      "num": "ned19",
+      "name": "Wout Weghorst",
+      "file": "ned19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ned19.jpg"
+    },
+    {
+      "num": "ned20",
+      "name": "Cody Gakpo",
+      "file": "ned20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ned20.jpg"
+    },
+    {
+      "num": "jpn1",
+      "name": "Emblem",
+      "file": "jpn1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jpn1.jpg"
+    },
+    {
+      "num": "jpn2",
+      "name": "Zion Suzuki",
+      "file": "jpn2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jpn2.jpg"
+    },
+    {
+      "num": "jpn3",
+      "name": "Henry Heroki Mochizuki",
+      "file": "jpn3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jpn3.jpg"
+    },
+    {
+      "num": "jpn4",
+      "name": "Ayumu Seko",
+      "file": "jpn4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jpn4.jpg"
+    },
+    {
+      "num": "jpn5",
+      "name": "Junnosuke Suzuki",
+      "file": "jpn5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jpn5.jpg"
+    },
+    {
+      "num": "jpn6",
+      "name": "Shogo Taniguchi",
+      "file": "jpn6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jpn6.jpg"
+    },
+    {
+      "num": "jpn7",
+      "name": "Tsuyoshi Watanabe",
+      "file": "jpn7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jpn7.jpg"
+    },
+    {
+      "num": "jpn8",
+      "name": "Kaishu Sano",
+      "file": "jpn8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jpn8.jpg"
+    },
+    {
+      "num": "jpn9",
+      "name": "Yuki Soma",
+      "file": "jpn9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jpn9.jpg"
+    },
+    {
+      "num": "jpn10",
+      "name": "Ao Tanaka",
+      "file": "jpn10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jpn10.jpg"
+    },
+    {
+      "num": "jpn11",
+      "name": "Daichi Kamada",
+      "file": "jpn11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jpn11.jpg"
+    },
+    {
+      "num": "jpn12",
+      "name": "Takefusa Kubo",
+      "file": "jpn12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jpn12.jpg"
+    },
+    {
+      "num": "jpn13",
+      "name": "Team Photo",
+      "file": "jpn13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jpn13.jpg"
+    },
+    {
+      "num": "jpn14",
+      "name": "Ritsu Doan",
+      "file": "jpn14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jpn14.jpg"
+    },
+    {
+      "num": "jpn15",
+      "name": "Keito Nakamura",
+      "file": "jpn15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jpn15.jpg"
+    },
+    {
+      "num": "jpn16",
+      "name": "Takumi Minamino",
+      "file": "jpn16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jpn16.jpg"
+    },
+    {
+      "num": "jpn17",
+      "name": "Shuto Machino",
+      "file": "jpn17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jpn17.jpg"
+    },
+    {
+      "num": "jpn18",
+      "name": "Junya Ito",
+      "file": "jpn18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jpn18.jpg"
+    },
+    {
+      "num": "jpn19",
+      "name": "Koki Ogawa",
+      "file": "jpn19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jpn19.jpg"
+    },
+    {
+      "num": "jpn20",
+      "name": "Ayase Ueda",
+      "file": "jpn20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jpn20.jpg"
+    },
+    {
+      "num": "swe1",
+      "name": "Emblem",
+      "file": "swe1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/swe1.jpg"
+    },
+    {
+      "num": "swe2",
+      "name": "Victor Johansson",
+      "file": "swe2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/swe2.jpg"
+    },
+    {
+      "num": "swe3",
+      "name": "Isak Hien",
+      "file": "swe3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/swe3.jpg"
+    },
+    {
+      "num": "swe4",
+      "name": "Gabriel Gudmundsson",
+      "file": "swe4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/swe4.jpg"
+    },
+    {
+      "num": "swe5",
+      "name": "Emil Holm",
+      "file": "swe5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/swe5.jpg"
+    },
+    {
+      "num": "swe6",
+      "name": "Victor Nilsson Lindel\u00f6f",
+      "file": "swe6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/swe6.jpg"
+    },
+    {
+      "num": "swe7",
+      "name": "Gustaf Lagerbielke",
+      "file": "swe7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/swe7.jpg"
+    },
+    {
+      "num": "swe8",
+      "name": "Lucas Bergvall",
+      "file": "swe8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/swe8.jpg"
+    },
+    {
+      "num": "swe9",
+      "name": "Hugo Larsson",
+      "file": "swe9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/swe9.jpg"
+    },
+    {
+      "num": "swe10",
+      "name": "Jesper Karlstr\u00f6m",
+      "file": "swe10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/swe10.jpg"
+    },
+    {
+      "num": "swe11",
+      "name": "Yasin Ayari",
+      "file": "swe11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/swe11.jpg"
+    },
+    {
+      "num": "swe12",
+      "name": "Mattias Svanberg",
+      "file": "swe12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/swe12.jpg"
+    },
+    {
+      "num": "swe13",
+      "name": "Team Photo",
+      "file": "swe13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/swe13.jpg"
+    },
+    {
+      "num": "swe14",
+      "name": "Daniel Svensson",
+      "file": "swe14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/swe14.jpg"
+    },
+    {
+      "num": "swe15",
+      "name": "Ken Sema",
+      "file": "swe15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/swe15.jpg"
+    },
+    {
+      "num": "swe16",
+      "name": "Roony Bardghji",
+      "file": "swe16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/swe16.jpg"
+    },
+    {
+      "num": "swe17",
+      "name": "Dejan Kulusevski",
+      "file": "swe17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/swe17.jpg"
+    },
+    {
+      "num": "swe18",
+      "name": "Anthony Elanga",
+      "file": "swe18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/swe18.jpg"
+    },
+    {
+      "num": "swe19",
+      "name": "Alexander Isak",
+      "file": "swe19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/swe19.jpg"
+    },
+    {
+      "num": "swe20",
+      "name": "Viktor Gy\u00f6keres",
+      "file": "swe20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/swe20.jpg"
+    },
+    {
+      "num": "tun1",
+      "name": "Emblem",
+      "file": "tun1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/tun1.jpg"
+    },
+    {
+      "num": "tun2",
+      "name": "Bechir Ben Said",
+      "file": "tun2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/tun2.jpg"
+    },
+    {
+      "num": "tun3",
+      "name": "Aymen Dahmen",
+      "file": "tun3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/tun3.jpg"
+    },
+    {
+      "num": "tun4",
+      "name": "Yan Valery",
+      "file": "tun4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/tun4.jpg"
+    },
+    {
+      "num": "tun5",
+      "name": "Montassar Talbi",
+      "file": "tun5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/tun5.jpg"
+    },
+    {
+      "num": "tun6",
+      "name": "Yassine Meriah",
+      "file": "tun6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/tun6.jpg"
+    },
+    {
+      "num": "tun7",
+      "name": "Ali Abdi",
+      "file": "tun7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/tun7.jpg"
+    },
+    {
+      "num": "tun8",
+      "name": "Dylan Bronn",
+      "file": "tun8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/tun8.jpg"
+    },
+    {
+      "num": "tun9",
+      "name": "Ellyes Skhiri",
+      "file": "tun9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/tun9.jpg"
+    },
+    {
+      "num": "tun10",
+      "name": "Aissa Laidouni",
+      "file": "tun10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/tun10.jpg"
+    },
+    {
+      "num": "tun11",
+      "name": "Ferjani Sassi",
+      "file": "tun11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/tun11.jpg"
+    },
+    {
+      "num": "tun12",
+      "name": "Mohamed Ali Ben Romdhane",
+      "file": "tun12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/tun12.jpg"
+    },
+    {
+      "num": "tun13",
+      "name": "Team Photo",
+      "file": "tun13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/tun13.jpg"
+    },
+    {
+      "num": "tun14",
+      "name": "Hannibal Mejbri",
+      "file": "tun14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/tun14.jpg"
+    },
+    {
+      "num": "tun15",
+      "name": "Elias Achouri",
+      "file": "tun15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/tun15.jpg"
+    },
+    {
+      "num": "tun16",
+      "name": "Elias Saad",
+      "file": "tun16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/tun16.jpg"
+    },
+    {
+      "num": "tun17",
+      "name": "Hazem Mastouri",
+      "file": "tun17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/tun17.jpg"
+    },
+    {
+      "num": "tun18",
+      "name": "Ismael Gharbi",
+      "file": "tun18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/tun18.jpg"
+    },
+    {
+      "num": "tun19",
+      "name": "Sayfallah Ltaief",
+      "file": "tun19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/tun19.jpg"
+    },
+    {
+      "num": "tun20",
+      "name": "Naim Sliti",
+      "file": "tun20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/tun20.jpg"
+    },
+    {
+      "num": "bel1",
+      "name": "Emblem",
+      "file": "bel1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bel1.jpg"
+    },
+    {
+      "num": "bel2",
+      "name": "Thibaut Courtois",
+      "file": "bel2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bel2.jpg"
+    },
+    {
+      "num": "bel3",
+      "name": "Arthur Theate",
+      "file": "bel3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bel3.jpg"
+    },
+    {
+      "num": "bel4",
+      "name": "Timothy Castagne",
+      "file": "bel4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bel4.jpg"
+    },
+    {
+      "num": "bel5",
+      "name": "Zeno Debast",
+      "file": "bel5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bel5.jpg"
+    },
+    {
+      "num": "bel6",
+      "name": "Brandon Mechele",
+      "file": "bel6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bel6.jpg"
+    },
+    {
+      "num": "bel7",
+      "name": "Maxim De Cuyper",
+      "file": "bel7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bel7.jpg"
+    },
+    {
+      "num": "bel8",
+      "name": "Thomas Meunier",
+      "file": "bel8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bel8.jpg"
+    },
+    {
+      "num": "bel9",
+      "name": "Youri Tielemans",
+      "file": "bel9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bel9.jpg"
+    },
+    {
+      "num": "bel10",
+      "name": "Amadou Onana",
+      "file": "bel10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bel10.jpg"
+    },
+    {
+      "num": "bel11",
+      "name": "Nicolas Raskin",
+      "file": "bel11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bel11.jpg"
+    },
+    {
+      "num": "bel12",
+      "name": "Alexis Saelemaekers",
+      "file": "bel12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bel12.jpg"
+    },
+    {
+      "num": "bel13",
+      "name": "Team Photo",
+      "file": "bel13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bel13.jpg"
+    },
+    {
+      "num": "bel14",
+      "name": "Hans Vanaken",
+      "file": "bel14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bel14.jpg"
+    },
+    {
+      "num": "bel15",
+      "name": "Kevin De Bruyne",
+      "file": "bel15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bel15.jpg"
+    },
+    {
+      "num": "bel16",
+      "name": "J\u00e9r\u00e9my Doku",
+      "file": "bel16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bel16.jpg"
+    },
+    {
+      "num": "bel17",
+      "name": "Charles De Ketelaere",
+      "file": "bel17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bel17.jpg"
+    },
+    {
+      "num": "bel18",
+      "name": "Leandro Trossard",
+      "file": "bel18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bel18.jpg"
+    },
+    {
+      "num": "bel19",
+      "name": "Lo\u00efs Openda",
+      "file": "bel19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bel19.jpg"
+    },
+    {
+      "num": "bel20",
+      "name": "Romelu Lukaku",
+      "file": "bel20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/bel20.jpg"
+    },
+    {
+      "num": "egy1",
+      "name": "Emblem",
+      "file": "egy1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/egy1.jpg"
+    },
+    {
+      "num": "egy2",
+      "name": "Mohamed El Shenawy",
+      "file": "egy2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/egy2.jpg"
+    },
+    {
+      "num": "egy3",
+      "name": "Mohamed Hany",
+      "file": "egy3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/egy3.jpg"
+    },
+    {
+      "num": "egy4",
+      "name": "Mohamed Hamdy",
+      "file": "egy4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/egy4.jpg"
+    },
+    {
+      "num": "egy5",
+      "name": "Yasser Ibrahim",
+      "file": "egy5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/egy5.jpg"
+    },
+    {
+      "num": "egy6",
+      "name": "Khaled Sobhi",
+      "file": "egy6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/egy6.jpg"
+    },
+    {
+      "num": "egy7",
+      "name": "Ramy Rabia",
+      "file": "egy7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/egy7.jpg"
+    },
+    {
+      "num": "egy8",
+      "name": "Hossam Abdelmaguid",
+      "file": "egy8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/egy8.jpg"
+    },
+    {
+      "num": "egy9",
+      "name": "Ahmed Fatouh",
+      "file": "egy9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/egy9.jpg"
+    },
+    {
+      "num": "egy10",
+      "name": "Marwan Attia",
+      "file": "egy10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/egy10.jpg"
+    },
+    {
+      "num": "egy11",
+      "name": "Zizo",
+      "file": "egy11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/egy11.jpg"
+    },
+    {
+      "num": "egy12",
+      "name": "Hamdy Fathy",
+      "file": "egy12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/egy12.jpg"
+    },
+    {
+      "num": "egy13",
+      "name": "Team Photo",
+      "file": "egy13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/egy13.jpg"
+    },
+    {
+      "num": "egy14",
+      "name": "Mohamed Lasheen",
+      "file": "egy14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/egy14.jpg"
+    },
+    {
+      "num": "egy15",
+      "name": "Emam Ashour",
+      "file": "egy15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/egy15.jpg"
+    },
+    {
+      "num": "egy16",
+      "name": "Osama Faisal",
+      "file": "egy16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/egy16.jpg"
+    },
+    {
+      "num": "egy17",
+      "name": "Mohamed Salah",
+      "file": "egy17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/egy17.jpg"
+    },
+    {
+      "num": "egy18",
+      "name": "Mostafa Mohamed",
+      "file": "egy18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/egy18.jpg"
+    },
+    {
+      "num": "egy19",
+      "name": "Trezeguet",
+      "file": "egy19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/egy19.jpg"
+    },
+    {
+      "num": "egy20",
+      "name": "Omar Marmoush",
+      "file": "egy20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/egy20.jpg"
+    },
+    {
+      "num": "irn1",
+      "name": "Emblem",
+      "file": "irn1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/irn1.jpg"
+    },
+    {
+      "num": "irn2",
+      "name": "Alireza Beiranvand",
+      "file": "irn2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/irn2.jpg"
+    },
+    {
+      "num": "irn3",
+      "name": "Morteza Pouraliganji",
+      "file": "irn3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/irn3.jpg"
+    },
+    {
+      "num": "irn4",
+      "name": "Ehsan Hajsafi",
+      "file": "irn4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/irn4.jpg"
+    },
+    {
+      "num": "irn5",
+      "name": "Milad Mohammadi",
+      "file": "irn5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/irn5.jpg"
+    },
+    {
+      "num": "irn6",
+      "name": "Shojae Khalilzadeh",
+      "file": "irn6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/irn6.jpg"
+    },
+    {
+      "num": "irn7",
+      "name": "Ramin Rezaeian",
+      "file": "irn7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/irn7.jpg"
+    },
+    {
+      "num": "irn8",
+      "name": "Hossein Kanaani",
+      "file": "irn8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/irn8.jpg"
+    },
+    {
+      "num": "irn9",
+      "name": "Sadegh Moharrami",
+      "file": "irn9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/irn9.jpg"
+    },
+    {
+      "num": "irn10",
+      "name": "Saleh Hardani",
+      "file": "irn10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/irn10.jpg"
+    },
+    {
+      "num": "irn11",
+      "name": "Saeed Ezatolahi",
+      "file": "irn11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/irn11.jpg"
+    },
+    {
+      "num": "irn12",
+      "name": "Saman Ghoddos",
+      "file": "irn12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/irn12.jpg"
+    },
+    {
+      "num": "irn13",
+      "name": "Team Photo",
+      "file": "irn13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/irn13.jpg"
+    },
+    {
+      "num": "irn14",
+      "name": "Omid Noorafkan",
+      "file": "irn14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/irn14.jpg"
+    },
+    {
+      "num": "irn15",
+      "name": "Roozbeh Cheshmi",
+      "file": "irn15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/irn15.jpg"
+    },
+    {
+      "num": "irn16",
+      "name": "Mohammad Mohebi",
+      "file": "irn16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/irn16.jpg"
+    },
+    {
+      "num": "irn17",
+      "name": "Sardar Azmoun",
+      "file": "irn17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/irn17.jpg"
+    },
+    {
+      "num": "irn18",
+      "name": "Mehdi Taremi",
+      "file": "irn18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/irn18.jpg"
+    },
+    {
+      "num": "irn19",
+      "name": "Alireza Jahanbakhsh",
+      "file": "irn19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/irn19.jpg"
+    },
+    {
+      "num": "irn20",
+      "name": "Ali Gholizadeh",
+      "file": "irn20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/irn20.jpg"
+    },
+    {
+      "num": "nzl1",
+      "name": "Emblem",
+      "file": "nzl1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/nzl1.jpg"
+    },
+    {
+      "num": "nzl2",
+      "name": "Max Crocombe",
+      "file": "nzl2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/nzl2.jpg"
+    },
+    {
+      "num": "nzl3",
+      "name": "Alex Paulsen",
+      "file": "nzl3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/nzl3.jpg"
+    },
+    {
+      "num": "nzl4",
+      "name": "Michael Boxall",
+      "file": "nzl4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/nzl4.jpg"
+    },
+    {
+      "num": "nzl5",
+      "name": "Liberato Cacace",
+      "file": "nzl5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/nzl5.jpg"
+    },
+    {
+      "num": "nzl6",
+      "name": "Tim Payne",
+      "file": "nzl6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/nzl6.jpg"
+    },
+    {
+      "num": "nzl7",
+      "name": "Tyler Bindon",
+      "file": "nzl7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/nzl7.jpg"
+    },
+    {
+      "num": "nzl8",
+      "name": "Francis de Vries",
+      "file": "nzl8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/nzl8.jpg"
+    },
+    {
+      "num": "nzl9",
+      "name": "Finn Surman",
+      "file": "nzl9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/nzl9.jpg"
+    },
+    {
+      "num": "nzl10",
+      "name": "Joe Bell",
+      "file": "nzl10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/nzl10.jpg"
+    },
+    {
+      "num": "nzl11",
+      "name": "Sarpreet Singh",
+      "file": "nzl11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/nzl11.jpg"
+    },
+    {
+      "num": "nzl12",
+      "name": "Ryan Thomas",
+      "file": "nzl12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/nzl12.jpg"
+    },
+    {
+      "num": "nzl13",
+      "name": "Team Photo",
+      "file": "nzl13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/nzl13.jpg"
+    },
+    {
+      "num": "nzl14",
+      "name": "Matthew Garbett",
+      "file": "nzl14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/nzl14.jpg"
+    },
+    {
+      "num": "nzl15",
+      "name": "Marko Stameni\u0107",
+      "file": "nzl15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/nzl15.jpg"
+    },
+    {
+      "num": "nzl16",
+      "name": "Ben Old",
+      "file": "nzl16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/nzl16.jpg"
+    },
+    {
+      "num": "nzl17",
+      "name": "Chris Wood",
+      "file": "nzl17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/nzl17.jpg"
+    },
+    {
+      "num": "nzl18",
+      "name": "Elijah Just",
+      "file": "nzl18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/nzl18.jpg"
+    },
+    {
+      "num": "nzl19",
+      "name": "Callum McCowatt",
+      "file": "nzl19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/nzl19.jpg"
+    },
+    {
+      "num": "nzl20",
+      "name": "Kosta Barbarouses",
+      "file": "nzl20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/nzl20.jpg"
+    },
+    {
+      "num": "esp1",
+      "name": "Emblem",
+      "file": "esp1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/esp1.jpg"
+    },
+    {
+      "num": "esp2",
+      "name": "Unai Simon",
+      "file": "esp2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/esp2.jpg"
+    },
+    {
+      "num": "esp3",
+      "name": "Robin Le Normand",
+      "file": "esp3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/esp3.jpg"
+    },
+    {
+      "num": "esp4",
+      "name": "Aymeric Laporte",
+      "file": "esp4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/esp4.jpg"
+    },
+    {
+      "num": "esp5",
+      "name": "Dean Huijsen",
+      "file": "esp5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/esp5.jpg"
+    },
+    {
+      "num": "esp6",
+      "name": "Pedro Porro",
+      "file": "esp6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/esp6.jpg"
+    },
+    {
+      "num": "esp7",
+      "name": "Dani Carvajal",
+      "file": "esp7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/esp7.jpg"
+    },
+    {
+      "num": "esp8",
+      "name": "Marc Cucurella",
+      "file": "esp8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/esp8.jpg"
+    },
+    {
+      "num": "esp9",
+      "name": "Mart\u00edn Zubimendi",
+      "file": "esp9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/esp9.jpg"
+    },
+    {
+      "num": "esp10",
+      "name": "Rodri",
+      "file": "esp10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/esp10.jpg"
+    },
+    {
+      "num": "esp11",
+      "name": "Pedri",
+      "file": "esp11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/esp11.jpg"
+    },
+    {
+      "num": "esp12",
+      "name": "Fabian Ruiz",
+      "file": "esp12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/esp12.jpg"
+    },
+    {
+      "num": "esp13",
+      "name": "Team Photo",
+      "file": "esp13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/esp13.jpg"
+    },
+    {
+      "num": "esp14",
+      "name": "Mikel Merino",
+      "file": "esp14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/esp14.jpg"
+    },
+    {
+      "num": "esp15",
+      "name": "Lamine Yamal",
+      "file": "esp15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/esp15.jpg"
+    },
+    {
+      "num": "esp16",
+      "name": "Dani Olmo",
+      "file": "esp16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/esp16.jpg"
+    },
+    {
+      "num": "esp17",
+      "name": "Nico Williams",
+      "file": "esp17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/esp17.jpg"
+    },
+    {
+      "num": "esp18",
+      "name": "Ferran Torres",
+      "file": "esp18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/esp18.jpg"
+    },
+    {
+      "num": "esp19",
+      "name": "\u00c1lvaro Morata",
+      "file": "esp19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/esp19.jpg"
+    },
+    {
+      "num": "esp20",
+      "name": "Mikel Oyarzabal",
+      "file": "esp20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/esp20.jpg"
+    },
+    {
+      "num": "cpv1",
+      "name": "Emblem",
+      "file": "cpv1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cpv1.jpg"
+    },
+    {
+      "num": "cpv2",
+      "name": "Vozinha",
+      "file": "cpv2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cpv2.jpg"
+    },
+    {
+      "num": "cpv3",
+      "name": "Logan Costa",
+      "file": "cpv3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cpv3.jpg"
+    },
+    {
+      "num": "cpv4",
+      "name": "Pico",
+      "file": "cpv4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cpv4.jpg"
+    },
+    {
+      "num": "cpv5",
+      "name": "Diney",
+      "file": "cpv5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cpv5.jpg"
+    },
+    {
+      "num": "cpv6",
+      "name": "Steven Moreira",
+      "file": "cpv6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cpv6.jpg"
+    },
+    {
+      "num": "cpv7",
+      "name": "Wagner Pina",
+      "file": "cpv7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cpv7.jpg"
+    },
+    {
+      "num": "cpv8",
+      "name": "Joao Paulo",
+      "file": "cpv8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cpv8.jpg"
+    },
+    {
+      "num": "cpv9",
+      "name": "Yannick Semedo",
+      "file": "cpv9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cpv9.jpg"
+    },
+    {
+      "num": "cpv10",
+      "name": "Kevin Pina",
+      "file": "cpv10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cpv10.jpg"
+    },
+    {
+      "num": "cpv11",
+      "name": "Patrick Andrade",
+      "file": "cpv11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cpv11.jpg"
+    },
+    {
+      "num": "cpv12",
+      "name": "Jamiro Monteiro",
+      "file": "cpv12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cpv12.jpg"
+    },
+    {
+      "num": "cpv13",
+      "name": "Team Photo",
+      "file": "cpv13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cpv13.jpg"
+    },
+    {
+      "num": "cpv14",
+      "name": "Deroy Duarte",
+      "file": "cpv14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cpv14.jpg"
+    },
+    {
+      "num": "cpv15",
+      "name": "Garry Rodrigues",
+      "file": "cpv15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cpv15.jpg"
+    },
+    {
+      "num": "cpv16",
+      "name": "Jovane Cabral",
+      "file": "cpv16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cpv16.jpg"
+    },
+    {
+      "num": "cpv17",
+      "name": "Ryan Mendes",
+      "file": "cpv17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cpv17.jpg"
+    },
+    {
+      "num": "cpv18",
+      "name": "Dailon Livramento",
+      "file": "cpv18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cpv18.jpg"
+    },
+    {
+      "num": "cpv19",
+      "name": "Willy Semedo",
+      "file": "cpv19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cpv19.jpg"
+    },
+    {
+      "num": "cpv20",
+      "name": "Bebe",
+      "file": "cpv20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cpv20.jpg"
+    },
+    {
+      "num": "ksa1",
+      "name": "Emblem",
+      "file": "ksa1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ksa1.jpg"
+    },
+    {
+      "num": "ksa2",
+      "name": "Nawaf Alaqidi",
+      "file": "ksa2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ksa2.jpg"
+    },
+    {
+      "num": "ksa3",
+      "name": "Abdulrahman Al-Sanbi",
+      "file": "ksa3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ksa3.jpg"
+    },
+    {
+      "num": "ksa4",
+      "name": "Saud Abdulhamid",
+      "file": "ksa4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ksa4.jpg"
+    },
+    {
+      "num": "ksa5",
+      "name": "Nawaf Bouwashl",
+      "file": "ksa5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ksa5.jpg"
+    },
+    {
+      "num": "ksa6",
+      "name": "Jihad Thakri",
+      "file": "ksa6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ksa6.jpg"
+    },
+    {
+      "num": "ksa7",
+      "name": "Moteb Al-Harbi",
+      "file": "ksa7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ksa7.jpg"
+    },
+    {
+      "num": "ksa8",
+      "name": "Hassan Altambakti",
+      "file": "ksa8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ksa8.jpg"
+    },
+    {
+      "num": "ksa9",
+      "name": "Musab Aljuwayr",
+      "file": "ksa9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ksa9.jpg"
+    },
+    {
+      "num": "ksa10",
+      "name": "Ziyad Aljohani",
+      "file": "ksa10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ksa10.jpg"
+    },
+    {
+      "num": "ksa11",
+      "name": "Abdullah Alkhaibari",
+      "file": "ksa11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ksa11.jpg"
+    },
+    {
+      "num": "ksa12",
+      "name": "Nasser Aldawsari",
+      "file": "ksa12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ksa12.jpg"
+    },
+    {
+      "num": "ksa13",
+      "name": "Team Photo",
+      "file": "ksa13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ksa13.jpg"
+    },
+    {
+      "num": "ksa14",
+      "name": "Saleh Abu Alshamat",
+      "file": "ksa14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ksa14.jpg"
+    },
+    {
+      "num": "ksa15",
+      "name": "Marwan Alsahafi",
+      "file": "ksa15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ksa15.jpg"
+    },
+    {
+      "num": "ksa16",
+      "name": "Salem Aldawsari",
+      "file": "ksa16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ksa16.jpg"
+    },
+    {
+      "num": "ksa17",
+      "name": "Abdulrahman Al-Aboud",
+      "file": "ksa17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ksa17.jpg"
+    },
+    {
+      "num": "ksa18",
+      "name": "Feras Akbrikan",
+      "file": "ksa18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ksa18.jpg"
+    },
+    {
+      "num": "ksa19",
+      "name": "Saleh Alshehri",
+      "file": "ksa19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ksa19.jpg"
+    },
+    {
+      "num": "ksa20",
+      "name": "Abdullah Al-Hamdan",
+      "file": "ksa20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ksa20.jpg"
+    },
+    {
+      "num": "uru1",
+      "name": "Emblem",
+      "file": "uru1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/uru1.jpg"
+    },
+    {
+      "num": "uru2",
+      "name": "Sergio Rochet",
+      "file": "uru2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/uru2.jpg"
+    },
+    {
+      "num": "uru3",
+      "name": "Santiago Mele",
+      "file": "uru3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/uru3.jpg"
+    },
+    {
+      "num": "uru4",
+      "name": "Ronald Araujo",
+      "file": "uru4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/uru4.jpg"
+    },
+    {
+      "num": "uru5",
+      "name": "Jos\u00e9 Mar\u00eda Gim\u00e9nez",
+      "file": "uru5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/uru5.jpg"
+    },
+    {
+      "num": "uru6",
+      "name": "Sebastian Caceres",
+      "file": "uru6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/uru6.jpg"
+    },
+    {
+      "num": "uru7",
+      "name": "Mathias Olivera",
+      "file": "uru7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/uru7.jpg"
+    },
+    {
+      "num": "uru8",
+      "name": "Guillermo Varela",
+      "file": "uru8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/uru8.jpg"
+    },
+    {
+      "num": "uru9",
+      "name": "Nahitan Nandez",
+      "file": "uru9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/uru9.jpg"
+    },
+    {
+      "num": "uru10",
+      "name": "Federico Valverde",
+      "file": "uru10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/uru10.jpg"
+    },
+    {
+      "num": "uru11",
+      "name": "Giorgian De Arrascaeta",
+      "file": "uru11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/uru11.jpg"
+    },
+    {
+      "num": "uru12",
+      "name": "Rodrigo Bentancur",
+      "file": "uru12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/uru12.jpg"
+    },
+    {
+      "num": "uru13",
+      "name": "Team Photo",
+      "file": "uru13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/uru13.jpg"
+    },
+    {
+      "num": "uru14",
+      "name": "Manuel Ugarte",
+      "file": "uru14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/uru14.jpg"
+    },
+    {
+      "num": "uru15",
+      "name": "Nicol\u00e1s de la Cruz",
+      "file": "uru15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/uru15.jpg"
+    },
+    {
+      "num": "uru16",
+      "name": "Maxi Araujo",
+      "file": "uru16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/uru16.jpg"
+    },
+    {
+      "num": "uru17",
+      "name": "Darwin N\u00fa\u00f1ez",
+      "file": "uru17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/uru17.jpg"
+    },
+    {
+      "num": "uru18",
+      "name": "Federico Vi\u00f1as",
+      "file": "uru18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/uru18.jpg"
+    },
+    {
+      "num": "uru19",
+      "name": "Rodrigo Aguirre",
+      "file": "uru19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/uru19.jpg"
+    },
+    {
+      "num": "uru20",
+      "name": "Facundo Pellistri",
+      "file": "uru20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/uru20.jpg"
+    },
+    {
+      "num": "fra1",
+      "name": "Emblem",
+      "file": "fra1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/fra1.jpg"
+    },
+    {
+      "num": "fra2",
+      "name": "Mike Maignan",
+      "file": "fra2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/fra2.jpg"
+    },
+    {
+      "num": "fra3",
+      "name": "Theo Hernandez",
+      "file": "fra3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/fra3.jpg"
+    },
+    {
+      "num": "fra4",
+      "name": "William Saliba",
+      "file": "fra4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/fra4.jpg"
+    },
+    {
+      "num": "fra5",
+      "name": "Jules Kounde",
+      "file": "fra5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/fra5.jpg"
+    },
+    {
+      "num": "fra6",
+      "name": "Ibrahima Konate",
+      "file": "fra6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/fra6.jpg"
+    },
+    {
+      "num": "fra7",
+      "name": "Dayot Upamecano",
+      "file": "fra7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/fra7.jpg"
+    },
+    {
+      "num": "fra8",
+      "name": "Lucas Digne",
+      "file": "fra8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/fra8.jpg"
+    },
+    {
+      "num": "fra9",
+      "name": "Aur\u00e9lien Tchouam\u00e9ni",
+      "file": "fra9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/fra9.jpg"
+    },
+    {
+      "num": "fra10",
+      "name": "Eduardo Camavinga",
+      "file": "fra10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/fra10.jpg"
+    },
+    {
+      "num": "fra11",
+      "name": "Manu Kone",
+      "file": "fra11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/fra11.jpg"
+    },
+    {
+      "num": "fra12",
+      "name": "Adrien Rabiot",
+      "file": "fra12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/fra12.jpg"
+    },
+    {
+      "num": "fra13",
+      "name": "Team Photo",
+      "file": "fra13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/fra13.jpg"
+    },
+    {
+      "num": "fra14",
+      "name": "Michael Olise",
+      "file": "fra14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/fra14.jpg"
+    },
+    {
+      "num": "fra15",
+      "name": "Ousmane Dembele",
+      "file": "fra15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/fra15.jpg"
+    },
+    {
+      "num": "fra16",
+      "name": "Bradley Barcola",
+      "file": "fra16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/fra16.jpg"
+    },
+    {
+      "num": "fra17",
+      "name": "D\u00e9sir\u00e9 Dou\u00e9",
+      "file": "fra17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/fra17.jpg"
+    },
+    {
+      "num": "fra18",
+      "name": "Kingsley Coman",
+      "file": "fra18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/fra18.jpg"
+    },
+    {
+      "num": "fra19",
+      "name": "Hugo Ekitike",
+      "file": "fra19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/fra19.jpg"
+    },
+    {
+      "num": "fra20",
+      "name": "Kylian Mbappe",
+      "file": "fra20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/fra20.jpg"
+    },
+    {
+      "num": "sen1",
+      "name": "Emblem",
+      "file": "sen1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sen1.jpg"
+    },
+    {
+      "num": "sen2",
+      "name": "\u00c9douard Mendy",
+      "file": "sen2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sen2.jpg"
+    },
+    {
+      "num": "sen3",
+      "name": "Yehvann Diouf",
+      "file": "sen3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sen3.jpg"
+    },
+    {
+      "num": "sen4",
+      "name": "Moussa Niakhat\u00e9",
+      "file": "sen4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sen4.jpg"
+    },
+    {
+      "num": "sen5",
+      "name": "Abdoulaye Seck",
+      "file": "sen5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sen5.jpg"
+    },
+    {
+      "num": "sen6",
+      "name": "Ismail Jakobs",
+      "file": "sen6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sen6.jpg"
+    },
+    {
+      "num": "sen7",
+      "name": "El Hadji Malick Diouf",
+      "file": "sen7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sen7.jpg"
+    },
+    {
+      "num": "sen8",
+      "name": "Kalidou Koulibaly",
+      "file": "sen8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sen8.jpg"
+    },
+    {
+      "num": "sen9",
+      "name": "Idrissa Gana Gueye",
+      "file": "sen9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sen9.jpg"
+    },
+    {
+      "num": "sen10",
+      "name": "Pape Matar Sarr",
+      "file": "sen10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sen10.jpg"
+    },
+    {
+      "num": "sen11",
+      "name": "Pape Gueye",
+      "file": "sen11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sen11.jpg"
+    },
+    {
+      "num": "sen12",
+      "name": "Habib Diarra",
+      "file": "sen12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sen12.jpg"
+    },
+    {
+      "num": "sen13",
+      "name": "Team Photo",
+      "file": "sen13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sen13.jpg"
+    },
+    {
+      "num": "sen14",
+      "name": "Lamine Camara",
+      "file": "sen14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sen14.jpg"
+    },
+    {
+      "num": "sen15",
+      "name": "Sadio Mane",
+      "file": "sen15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sen15.jpg"
+    },
+    {
+      "num": "sen16",
+      "name": "Isma\u00efla Sarr",
+      "file": "sen16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sen16.jpg"
+    },
+    {
+      "num": "sen17",
+      "name": "Boulaye Dia",
+      "file": "sen17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sen17.jpg"
+    },
+    {
+      "num": "sen18",
+      "name": "Iliman Ndiaye",
+      "file": "sen18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sen18.jpg"
+    },
+    {
+      "num": "sen19",
+      "name": "Nicolas Jackson",
+      "file": "sen19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sen19.jpg"
+    },
+    {
+      "num": "sen20",
+      "name": "Krepin Diatta",
+      "file": "sen20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/sen20.jpg"
+    },
+    {
+      "num": "irq1",
+      "name": "Emblem",
+      "file": "irq1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/irq1.jpg"
+    },
+    {
+      "num": "irq2",
+      "name": "Jalal Hassan",
+      "file": "irq2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/irq2.jpg"
+    },
+    {
+      "num": "irq3",
+      "name": "Rebin Sulaka",
+      "file": "irq3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/irq3.jpg"
+    },
+    {
+      "num": "irq4",
+      "name": "Hussein Ali",
+      "file": "irq4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/irq4.jpg"
+    },
+    {
+      "num": "irq5",
+      "name": "Akam Hashem",
+      "file": "irq5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/irq5.jpg"
+    },
+    {
+      "num": "irq6",
+      "name": "Merchas Doski",
+      "file": "irq6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/irq6.jpg"
+    },
+    {
+      "num": "irq7",
+      "name": "Zaid Tahseen",
+      "file": "irq7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/irq7.jpg"
+    },
+    {
+      "num": "irq8",
+      "name": "Manaf Younis",
+      "file": "irq8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/irq8.jpg"
+    },
+    {
+      "num": "irq9",
+      "name": "Zidane Iqbal",
+      "file": "irq9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/irq9.jpg"
+    },
+    {
+      "num": "irq10",
+      "name": "Amir Al-Ammari",
+      "file": "irq10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/irq10.jpg"
+    },
+    {
+      "num": "irq11",
+      "name": "Ibrahim Bavesh",
+      "file": "irq11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/irq11.jpg"
+    },
+    {
+      "num": "irq12",
+      "name": "Ali Jasim",
+      "file": "irq12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/irq12.jpg"
+    },
+    {
+      "num": "irq13",
+      "name": "Team Photo",
+      "file": "irq13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/irq13.jpg"
+    },
+    {
+      "num": "irq14",
+      "name": "Youssef Amyn",
+      "file": "irq14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/irq14.jpg"
+    },
+    {
+      "num": "irq15",
+      "name": "Aimar Sher",
+      "file": "irq15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/irq15.jpg"
+    },
+    {
+      "num": "irq16",
+      "name": "Marko Farji",
+      "file": "irq16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/irq16.jpg"
+    },
+    {
+      "num": "irq17",
+      "name": "Osama Rashid",
+      "file": "irq17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/irq17.jpg"
+    },
+    {
+      "num": "irq18",
+      "name": "Ali Al-Hamadi",
+      "file": "irq18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/irq18.jpg"
+    },
+    {
+      "num": "irq19",
+      "name": "Aymen Hussein",
+      "file": "irq19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/irq19.jpg"
+    },
+    {
+      "num": "irq20",
+      "name": "Mohanad Ali",
+      "file": "irq20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/irq20.jpg"
+    },
+    {
+      "num": "nor1",
+      "name": "Emblem",
+      "file": "nor1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/nor1.jpg"
+    },
+    {
+      "num": "nor2",
+      "name": "Orjan Nyland",
+      "file": "nor2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/nor2.jpg"
+    },
+    {
+      "num": "nor3",
+      "name": "Julian Ryerson",
+      "file": "nor3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/nor3.jpg"
+    },
+    {
+      "num": "nor4",
+      "name": "Leo Ostig\u00e5rd",
+      "file": "nor4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/nor4.jpg"
+    },
+    {
+      "num": "nor5",
+      "name": "Kristoffer Vassbakk Ajer",
+      "file": "nor5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/nor5.jpg"
+    },
+    {
+      "num": "nor6",
+      "name": "Marcus Holmgren Pedersen",
+      "file": "nor6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/nor6.jpg"
+    },
+    {
+      "num": "nor7",
+      "name": "David M\u00f8ller Wolfe",
+      "file": "nor7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/nor7.jpg"
+    },
+    {
+      "num": "nor8",
+      "name": "Torbj\u00f8rn Heggem",
+      "file": "nor8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/nor8.jpg"
+    },
+    {
+      "num": "nor9",
+      "name": "Morten Thorsby",
+      "file": "nor9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/nor9.jpg"
+    },
+    {
+      "num": "nor10",
+      "name": "Martin \u00d8degaard",
+      "file": "nor10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/nor10.jpg"
+    },
+    {
+      "num": "nor11",
+      "name": "Sander Berge",
+      "file": "nor11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/nor11.jpg"
+    },
+    {
+      "num": "nor12",
+      "name": "Andreas Schjelderup",
+      "file": "nor12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/nor12.jpg"
+    },
+    {
+      "num": "nor13",
+      "name": "Team Photo",
+      "file": "nor13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/nor13.jpg"
+    },
+    {
+      "num": "nor14",
+      "name": "Patrick Berg",
+      "file": "nor14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/nor14.jpg"
+    },
+    {
+      "num": "nor15",
+      "name": "Erling Haaland",
+      "file": "nor15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/nor15.jpg"
+    },
+    {
+      "num": "nor16",
+      "name": "Alexander S\u00f8rloth",
+      "file": "nor16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/nor16.jpg"
+    },
+    {
+      "num": "nor17",
+      "name": "Aron D\u00f8nnum",
+      "file": "nor17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/nor17.jpg"
+    },
+    {
+      "num": "nor18",
+      "name": "Jorgen Strand Larsen",
+      "file": "nor18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/nor18.jpg"
+    },
+    {
+      "num": "nor19",
+      "name": "Antonio Nusa",
+      "file": "nor19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/nor19.jpg"
+    },
+    {
+      "num": "nor20",
+      "name": "Oscar Bobb",
+      "file": "nor20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/nor20.jpg"
+    },
+    {
+      "num": "arg1",
+      "name": "Emblem",
+      "file": "arg1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/arg1.jpg"
+    },
+    {
+      "num": "arg2",
+      "name": "Emiliano Martinez",
+      "file": "arg2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/arg2.jpg"
+    },
+    {
+      "num": "arg3",
+      "name": "Nahuel Molina",
+      "file": "arg3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/arg3.jpg"
+    },
+    {
+      "num": "arg4",
+      "name": "Cristian Romero",
+      "file": "arg4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/arg4.jpg"
+    },
+    {
+      "num": "arg5",
+      "name": "Nicolas Otamendi",
+      "file": "arg5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/arg5.jpg"
+    },
+    {
+      "num": "arg6",
+      "name": "Nicolas Tagliafico",
+      "file": "arg6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/arg6.jpg"
+    },
+    {
+      "num": "arg7",
+      "name": "Leonardo Balerdi",
+      "file": "arg7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/arg7.jpg"
+    },
+    {
+      "num": "arg8",
+      "name": "Enzo Fernandez",
+      "file": "arg8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/arg8.jpg"
+    },
+    {
+      "num": "arg9",
+      "name": "Alexis Mac Allister",
+      "file": "arg9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/arg9.jpg"
+    },
+    {
+      "num": "arg10",
+      "name": "Rodrigo De Paul",
+      "file": "arg10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/arg10.jpg"
+    },
+    {
+      "num": "arg11",
+      "name": "Exequiel Palacios",
+      "file": "arg11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/arg11.jpg"
+    },
+    {
+      "num": "arg12",
+      "name": "Leandro Paredes",
+      "file": "arg12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/arg12.jpg"
+    },
+    {
+      "num": "arg13",
+      "name": "Team Photo",
+      "file": "arg13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/arg13.jpg"
+    },
+    {
+      "num": "arg14",
+      "name": "Nico Paz",
+      "file": "arg14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/arg14.jpg"
+    },
+    {
+      "num": "arg15",
+      "name": "Franco Mastantuono",
+      "file": "arg15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/arg15.jpg"
+    },
+    {
+      "num": "arg16",
+      "name": "Nico Gonzalez",
+      "file": "arg16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/arg16.jpg"
+    },
+    {
+      "num": "arg17",
+      "name": "Lionel Messi",
+      "file": "arg17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/arg17.jpg"
+    },
+    {
+      "num": "arg18",
+      "name": "Lautaro Martinez",
+      "file": "arg18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/arg18.jpg"
+    },
+    {
+      "num": "arg19",
+      "name": "Julian Alvarez",
+      "file": "arg19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/arg19.jpg"
+    },
+    {
+      "num": "arg20",
+      "name": "Giuliano Simeone",
+      "file": "arg20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/arg20.jpg"
+    },
+    {
+      "num": "alg1",
+      "name": "Emblem",
+      "file": "alg1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/alg1.jpg"
+    },
+    {
+      "num": "alg2",
+      "name": "Alexis Guendouz",
+      "file": "alg2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/alg2.jpg"
+    },
+    {
+      "num": "alg3",
+      "name": "Ramy Bensebaini",
+      "file": "alg3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/alg3.jpg"
+    },
+    {
+      "num": "alg4",
+      "name": "Youcef Atal",
+      "file": "alg4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/alg4.jpg"
+    },
+    {
+      "num": "alg5",
+      "name": "Rayan A\u00eft-Nouri",
+      "file": "alg5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/alg5.jpg"
+    },
+    {
+      "num": "alg6",
+      "name": "Mohamed Amine Tougai",
+      "file": "alg6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/alg6.jpg"
+    },
+    {
+      "num": "alg7",
+      "name": "A\u00efssa Mandi",
+      "file": "alg7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/alg7.jpg"
+    },
+    {
+      "num": "alg8",
+      "name": "Ismael Bennacer",
+      "file": "alg8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/alg8.jpg"
+    },
+    {
+      "num": "alg9",
+      "name": "Houssem Aouar",
+      "file": "alg9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/alg9.jpg"
+    },
+    {
+      "num": "alg10",
+      "name": "Hicham Boudaoui",
+      "file": "alg10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/alg10.jpg"
+    },
+    {
+      "num": "alg11",
+      "name": "Ramiz Zerrouki",
+      "file": "alg11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/alg11.jpg"
+    },
+    {
+      "num": "alg12",
+      "name": "Nabil Bentaleb",
+      "file": "alg12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/alg12.jpg"
+    },
+    {
+      "num": "alg13",
+      "name": "Team Photo",
+      "file": "alg13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/alg13.jpg"
+    },
+    {
+      "num": "alg14",
+      "name": "Far\u00e9s Chaibi",
+      "file": "alg14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/alg14.jpg"
+    },
+    {
+      "num": "alg15",
+      "name": "Riyad Mahrez",
+      "file": "alg15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/alg15.jpg"
+    },
+    {
+      "num": "alg16",
+      "name": "Said Benrahma",
+      "file": "alg16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/alg16.jpg"
+    },
+    {
+      "num": "alg17",
+      "name": "Anis Hadj Moussa",
+      "file": "alg17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/alg17.jpg"
+    },
+    {
+      "num": "alg18",
+      "name": "Amine Gouiri",
+      "file": "alg18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/alg18.jpg"
+    },
+    {
+      "num": "alg19",
+      "name": "Baghdad Bounedjah",
+      "file": "alg19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/alg19.jpg"
+    },
+    {
+      "num": "alg20",
+      "name": "Mohammed Amoura",
+      "file": "alg20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/alg20.jpg"
+    },
+    {
+      "num": "aut1",
+      "name": "Emblem",
+      "file": "aut1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/aut1.jpg"
+    },
+    {
+      "num": "aut2",
+      "name": "Alexander Schlager",
+      "file": "aut2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/aut2.jpg"
+    },
+    {
+      "num": "aut3",
+      "name": "Patrick Pentz",
+      "file": "aut3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/aut3.jpg"
+    },
+    {
+      "num": "aut4",
+      "name": "David Alaba",
+      "file": "aut4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/aut4.jpg"
+    },
+    {
+      "num": "aut5",
+      "name": "Kevin Danso",
+      "file": "aut5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/aut5.jpg"
+    },
+    {
+      "num": "aut6",
+      "name": "Philipp Lienhart",
+      "file": "aut6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/aut6.jpg"
+    },
+    {
+      "num": "aut7",
+      "name": "Stefan Posch",
+      "file": "aut7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/aut7.jpg"
+    },
+    {
+      "num": "aut8",
+      "name": "Phillipp Mwene",
+      "file": "aut8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/aut8.jpg"
+    },
+    {
+      "num": "aut9",
+      "name": "Alexander Prass",
+      "file": "aut9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/aut9.jpg"
+    },
+    {
+      "num": "aut10",
+      "name": "Xaver Schlager",
+      "file": "aut10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/aut10.jpg"
+    },
+    {
+      "num": "aut11",
+      "name": "Marcel Sabitzer",
+      "file": "aut11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/aut11.jpg"
+    },
+    {
+      "num": "aut12",
+      "name": "Konrad Laimer",
+      "file": "aut12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/aut12.jpg"
+    },
+    {
+      "num": "aut13",
+      "name": "Team Photo",
+      "file": "aut13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/aut13.jpg"
+    },
+    {
+      "num": "aut14",
+      "name": "Florian Grillitsch",
+      "file": "aut14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/aut14.jpg"
+    },
+    {
+      "num": "aut15",
+      "name": "Nicolas Seiwald",
+      "file": "aut15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/aut15.jpg"
+    },
+    {
+      "num": "aut16",
+      "name": "Romano Schmid",
+      "file": "aut16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/aut16.jpg"
+    },
+    {
+      "num": "aut17",
+      "name": "Patrick Wimmer",
+      "file": "aut17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/aut17.jpg"
+    },
+    {
+      "num": "aut18",
+      "name": "Christoph Baumgartner",
+      "file": "aut18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/aut18.jpg"
+    },
+    {
+      "num": "aut19",
+      "name": "Michael Gregoritsch",
+      "file": "aut19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/aut19.jpg"
+    },
+    {
+      "num": "aut20",
+      "name": "Marko Arnautovi\u0107",
+      "file": "aut20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/aut20.jpg"
+    },
+    {
+      "num": "jor1",
+      "name": "Emblem",
+      "file": "jor1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jor1.jpg"
+    },
+    {
+      "num": "jor2",
+      "name": "Yazeed Abulaila",
+      "file": "jor2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jor2.jpg"
+    },
+    {
+      "num": "jor3",
+      "name": "Ihsan Haddad",
+      "file": "jor3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jor3.jpg"
+    },
+    {
+      "num": "jor4",
+      "name": "Mohammad Abu Hashish",
+      "file": "jor4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jor4.jpg"
+    },
+    {
+      "num": "jor5",
+      "name": "Yazan Al-Arab",
+      "file": "jor5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jor5.jpg"
+    },
+    {
+      "num": "jor6",
+      "name": "Abdallah Nasib",
+      "file": "jor6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jor6.jpg"
+    },
+    {
+      "num": "jor7",
+      "name": "Saleem Obaid",
+      "file": "jor7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jor7.jpg"
+    },
+    {
+      "num": "jor8",
+      "name": "Mohammad Abualnadi",
+      "file": "jor8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jor8.jpg"
+    },
+    {
+      "num": "jor9",
+      "name": "Ibrahim Saadeh",
+      "file": "jor9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jor9.jpg"
+    },
+    {
+      "num": "jor10",
+      "name": "Nizar Al-Rashdan",
+      "file": "jor10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jor10.jpg"
+    },
+    {
+      "num": "jor11",
+      "name": "Noor Al-Rawabdeh",
+      "file": "jor11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jor11.jpg"
+    },
+    {
+      "num": "jor12",
+      "name": "Mohannad Abu Taha",
+      "file": "jor12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jor12.jpg"
+    },
+    {
+      "num": "jor13",
+      "name": "Team Photo",
+      "file": "jor13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jor13.jpg"
+    },
+    {
+      "num": "jor14",
+      "name": "Amer Jamous",
+      "file": "jor14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jor14.jpg"
+    },
+    {
+      "num": "jor15",
+      "name": "Musa Al-Taamari",
+      "file": "jor15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jor15.jpg"
+    },
+    {
+      "num": "jor16",
+      "name": "Yazan Al-Naimat",
+      "file": "jor16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jor16.jpg"
+    },
+    {
+      "num": "jor17",
+      "name": "Mahmoud Al-Mardi",
+      "file": "jor17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jor17.jpg"
+    },
+    {
+      "num": "jor18",
+      "name": "Ali Olwan",
+      "file": "jor18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jor18.jpg"
+    },
+    {
+      "num": "jor19",
+      "name": "Mohammad Abu Zrayq",
+      "file": "jor19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jor19.jpg"
+    },
+    {
+      "num": "jor20",
+      "name": "Ibrahim Sabra",
+      "file": "jor20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jor20.jpg"
+    },
+    {
+      "num": "por1",
+      "name": "Emblem",
+      "file": "por1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/por1.jpg"
+    },
+    {
+      "num": "por2",
+      "name": "Diogo Costa",
+      "file": "por2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/por2.jpg"
+    },
+    {
+      "num": "por3",
+      "name": "Jos\u00e9 S\u00e1",
+      "file": "por3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/por3.jpg"
+    },
+    {
+      "num": "por4",
+      "name": "Ruben Dias",
+      "file": "por4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/por4.jpg"
+    },
+    {
+      "num": "por5",
+      "name": "Jo\u00e3o Cancelo",
+      "file": "por5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/por5.jpg"
+    },
+    {
+      "num": "por6",
+      "name": "Diogo Dalot",
+      "file": "por6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/por6.jpg"
+    },
+    {
+      "num": "por7",
+      "name": "Nuno Mendes",
+      "file": "por7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/por7.jpg"
+    },
+    {
+      "num": "por8",
+      "name": "Gon\u00e7alo In\u00e1cio",
+      "file": "por8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/por8.jpg"
+    },
+    {
+      "num": "por9",
+      "name": "Bernardo Silva",
+      "file": "por9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/por9.jpg"
+    },
+    {
+      "num": "por10",
+      "name": "Bruno Fernandes",
+      "file": "por10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/por10.jpg"
+    },
+    {
+      "num": "por11",
+      "name": "Ruben Neves",
+      "file": "por11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/por11.jpg"
+    },
+    {
+      "num": "por12",
+      "name": "Vitinha",
+      "file": "por12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/por12.jpg"
+    },
+    {
+      "num": "por13",
+      "name": "Team Photo",
+      "file": "por13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/por13.jpg"
+    },
+    {
+      "num": "por14",
+      "name": "Jo\u00e3o Neves",
+      "file": "por14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/por14.jpg"
+    },
+    {
+      "num": "por15",
+      "name": "Cristiano Ronaldo",
+      "file": "por15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/por15.jpg"
+    },
+    {
+      "num": "por16",
+      "name": "Francisco Trincao",
+      "file": "por16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/por16.jpg"
+    },
+    {
+      "num": "por17",
+      "name": "Jo\u00e3o Felix",
+      "file": "por17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/por17.jpg"
+    },
+    {
+      "num": "por18",
+      "name": "Gon\u00e7alo Ramos",
+      "file": "por18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/por18.jpg"
+    },
+    {
+      "num": "por19",
+      "name": "Pedro Neto",
+      "file": "por19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/por19.jpg"
+    },
+    {
+      "num": "por20",
+      "name": "Rafael Le\u00e3o",
+      "file": "por20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/por20.jpg"
+    },
+    {
+      "num": "cod1",
+      "name": "Emblem",
+      "file": "cod1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cod1.jpg"
+    },
+    {
+      "num": "cod2",
+      "name": "Lionel Mpasi-Nzau",
+      "file": "cod2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cod2.jpg"
+    },
+    {
+      "num": "cod3",
+      "name": "Aaron Wan-Bissaka",
+      "file": "cod3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cod3.jpg"
+    },
+    {
+      "num": "cod4",
+      "name": "Axel Tuanzebe",
+      "file": "cod4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cod4.jpg"
+    },
+    {
+      "num": "cod5",
+      "name": "Arthur Masuaku",
+      "file": "cod5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cod5.jpg"
+    },
+    {
+      "num": "cod6",
+      "name": "Chancel Mbemba",
+      "file": "cod6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cod6.jpg"
+    },
+    {
+      "num": "cod7",
+      "name": "Joris Kayembe",
+      "file": "cod7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cod7.jpg"
+    },
+    {
+      "num": "cod8",
+      "name": "Charles Pickel",
+      "file": "cod8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cod8.jpg"
+    },
+    {
+      "num": "cod9",
+      "name": "Ngal'ayel Mukau",
+      "file": "cod9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cod9.jpg"
+    },
+    {
+      "num": "cod10",
+      "name": "Edo Kayembe",
+      "file": "cod10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cod10.jpg"
+    },
+    {
+      "num": "cod11",
+      "name": "Samuel Moutoussamy",
+      "file": "cod11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cod11.jpg"
+    },
+    {
+      "num": "cod12",
+      "name": "Noah Sadiki",
+      "file": "cod12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cod12.jpg"
+    },
+    {
+      "num": "cod13",
+      "name": "Team Photo",
+      "file": "cod13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cod13.jpg"
+    },
+    {
+      "num": "cod14",
+      "name": "Th\u00e9o Bongonda",
+      "file": "cod14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cod14.jpg"
+    },
+    {
+      "num": "cod15",
+      "name": "Meschak Elia",
+      "file": "cod15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cod15.jpg"
+    },
+    {
+      "num": "cod16",
+      "name": "Yoane Wissa",
+      "file": "cod16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cod16.jpg"
+    },
+    {
+      "num": "cod17",
+      "name": "Brian Cipenga",
+      "file": "cod17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cod17.jpg"
+    },
+    {
+      "num": "cod18",
+      "name": "Fiston Mayele",
+      "file": "cod18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cod18.jpg"
+    },
+    {
+      "num": "cod19",
+      "name": "C\u00e9dric Bakambu",
+      "file": "cod19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cod19.jpg"
+    },
+    {
+      "num": "cod20",
+      "name": "Nathana\u00ebl Mbuku",
+      "file": "cod20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cod20.jpg"
+    },
+    {
+      "num": "uzb1",
+      "name": "Emblem",
+      "file": "uzb1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/uzb1.jpg"
+    },
+    {
+      "num": "uzb2",
+      "name": "Utkir Yusupov",
+      "file": "uzb2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/uzb2.jpg"
+    },
+    {
+      "num": "uzb3",
+      "name": "Farrukh Savfiev",
+      "file": "uzb3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/uzb3.jpg"
+    },
+    {
+      "num": "uzb4",
+      "name": "Sherzod Nasrullaev",
+      "file": "uzb4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/uzb4.jpg"
+    },
+    {
+      "num": "uzb5",
+      "name": "Umar Eshmurodov",
+      "file": "uzb5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/uzb5.jpg"
+    },
+    {
+      "num": "uzb6",
+      "name": "Husniddin Aliqulov",
+      "file": "uzb6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/uzb6.jpg"
+    },
+    {
+      "num": "uzb7",
+      "name": "Rustamjon Ashurmatov",
+      "file": "uzb7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/uzb7.jpg"
+    },
+    {
+      "num": "uzb8",
+      "name": "Khojiakbar Alijonov",
+      "file": "uzb8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/uzb8.jpg"
+    },
+    {
+      "num": "uzb9",
+      "name": "Abdukodir Khusanov",
+      "file": "uzb9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/uzb9.jpg"
+    },
+    {
+      "num": "uzb10",
+      "name": "Odiljon Hamrobekov",
+      "file": "uzb10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/uzb10.jpg"
+    },
+    {
+      "num": "uzb11",
+      "name": "Otabek Shukurov",
+      "file": "uzb11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/uzb11.jpg"
+    },
+    {
+      "num": "uzb12",
+      "name": "Jamshid Iskanderov",
+      "file": "uzb12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/uzb12.jpg"
+    },
+    {
+      "num": "uzb13",
+      "name": "Team Photo",
+      "file": "uzb13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/uzb13.jpg"
+    },
+    {
+      "num": "uzb14",
+      "name": "Azizbek Turgunboev",
+      "file": "uzb14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/uzb14.jpg"
+    },
+    {
+      "num": "uzb15",
+      "name": "Khojimat Erkinov",
+      "file": "uzb15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/uzb15.jpg"
+    },
+    {
+      "num": "uzb16",
+      "name": "Eldor Shomurodov",
+      "file": "uzb16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/uzb16.jpg"
+    },
+    {
+      "num": "uzb17",
+      "name": "Oston Urunov",
+      "file": "uzb17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/uzb17.jpg"
+    },
+    {
+      "num": "uzb18",
+      "name": "Jaloliddin Masharipov",
+      "file": "uzb18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/uzb18.jpg"
+    },
+    {
+      "num": "uzb19",
+      "name": "Igor Sergeev",
+      "file": "uzb19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/uzb19.jpg"
+    },
+    {
+      "num": "uzb20",
+      "name": "Abbosbek Fayzullaev",
+      "file": "uzb20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/uzb20.jpg"
+    },
+    {
+      "num": "col1",
+      "name": "Emblem",
+      "file": "col1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/col1.jpg"
+    },
+    {
+      "num": "col2",
+      "name": "Camilo Vargas",
+      "file": "col2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/col2.jpg"
+    },
+    {
+      "num": "col3",
+      "name": "David Ospina",
+      "file": "col3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/col3.jpg"
+    },
+    {
+      "num": "col4",
+      "name": "D\u00e1vinson S\u00e1nchez",
+      "file": "col4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/col4.jpg"
+    },
+    {
+      "num": "col5",
+      "name": "Yerry Mina",
+      "file": "col5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/col5.jpg"
+    },
+    {
+      "num": "col6",
+      "name": "Daniel Munoz",
+      "file": "col6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/col6.jpg"
+    },
+    {
+      "num": "col7",
+      "name": "Johan Mojica",
+      "file": "col7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/col7.jpg"
+    },
+    {
+      "num": "col8",
+      "name": "Jhon Lucum\u00ed",
+      "file": "col8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/col8.jpg"
+    },
+    {
+      "num": "col9",
+      "name": "Santiago Arias",
+      "file": "col9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/col9.jpg"
+    },
+    {
+      "num": "col10",
+      "name": "Jefferson Lerma",
+      "file": "col10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/col10.jpg"
+    },
+    {
+      "num": "col11",
+      "name": "Kevin Casta\u00f1o",
+      "file": "col11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/col11.jpg"
+    },
+    {
+      "num": "col12",
+      "name": "Richard Rios",
+      "file": "col12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/col12.jpg"
+    },
+    {
+      "num": "col13",
+      "name": "Team Photo",
+      "file": "col13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/col13.jpg"
+    },
+    {
+      "num": "col14",
+      "name": "James Rodriguez",
+      "file": "col14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/col14.jpg"
+    },
+    {
+      "num": "col15",
+      "name": "Juan Fernando Quintero",
+      "file": "col15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/col15.jpg"
+    },
+    {
+      "num": "col16",
+      "name": "Jorge Carrascal",
+      "file": "col16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/col16.jpg"
+    },
+    {
+      "num": "col17",
+      "name": "Jhon Arias",
+      "file": "col17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/col17.jpg"
+    },
+    {
+      "num": "col18",
+      "name": "Jhon Cordova",
+      "file": "col18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/col18.jpg"
+    },
+    {
+      "num": "col19",
+      "name": "Luis Suarez",
+      "file": "col19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/col19.jpg"
+    },
+    {
+      "num": "col20",
+      "name": "Luis Diaz",
+      "file": "col20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/col20.jpg"
+    },
+    {
+      "num": "eng1",
+      "name": "Emblem",
+      "file": "eng1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/eng1.jpg"
+    },
+    {
+      "num": "eng2",
+      "name": "Jordan Pickford",
+      "file": "eng2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/eng2.jpg"
+    },
+    {
+      "num": "eng3",
+      "name": "John Stones",
+      "file": "eng3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/eng3.jpg"
+    },
+    {
+      "num": "eng4",
+      "name": "Marc Gu\u00e9hi",
+      "file": "eng4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/eng4.jpg"
+    },
+    {
+      "num": "eng5",
+      "name": "Ezri Konsa",
+      "file": "eng5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/eng5.jpg"
+    },
+    {
+      "num": "eng6",
+      "name": "Trent Alexander-Arnold",
+      "file": "eng6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/eng6.jpg"
+    },
+    {
+      "num": "eng7",
+      "name": "Reece James",
+      "file": "eng7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/eng7.jpg"
+    },
+    {
+      "num": "eng8",
+      "name": "Dan Burn",
+      "file": "eng8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/eng8.jpg"
+    },
+    {
+      "num": "eng9",
+      "name": "Jordan Henderson",
+      "file": "eng9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/eng9.jpg"
+    },
+    {
+      "num": "eng10",
+      "name": "Declan Rice",
+      "file": "eng10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/eng10.jpg"
+    },
+    {
+      "num": "eng11",
+      "name": "Jude Bellingham",
+      "file": "eng11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/eng11.jpg"
+    },
+    {
+      "num": "eng12",
+      "name": "Cole Palmer",
+      "file": "eng12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/eng12.jpg"
+    },
+    {
+      "num": "eng13",
+      "name": "Team Photo",
+      "file": "eng13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/eng13.jpg"
+    },
+    {
+      "num": "eng14",
+      "name": "Morgan Rogers",
+      "file": "eng14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/eng14.jpg"
+    },
+    {
+      "num": "eng15",
+      "name": "Anthony Gordon",
+      "file": "eng15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/eng15.jpg"
+    },
+    {
+      "num": "eng16",
+      "name": "Phil Foden",
+      "file": "eng16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/eng16.jpg"
+    },
+    {
+      "num": "eng17",
+      "name": "Bukayo Saka",
+      "file": "eng17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/eng17.jpg"
+    },
+    {
+      "num": "eng18",
+      "name": "Harry Kane",
+      "file": "eng18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/eng18.jpg"
+    },
+    {
+      "num": "eng19",
+      "name": "Marcus Rashford",
+      "file": "eng19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/eng19.jpg"
+    },
+    {
+      "num": "eng20",
+      "name": "Ollie Watkins",
+      "file": "eng20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/eng20.jpg"
+    },
+    {
+      "num": "cro1",
+      "name": "Emblem",
+      "file": "cro1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cro1.jpg"
+    },
+    {
+      "num": "cro2",
+      "name": "Dominik Livakovi\u0107",
+      "file": "cro2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cro2.jpg"
+    },
+    {
+      "num": "cro3",
+      "name": "Duje Caleta-Car",
+      "file": "cro3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cro3.jpg"
+    },
+    {
+      "num": "cro4",
+      "name": "Josko Gvardiol",
+      "file": "cro4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cro4.jpg"
+    },
+    {
+      "num": "cro5",
+      "name": "Josip Stani\u0161i\u0107",
+      "file": "cro5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cro5.jpg"
+    },
+    {
+      "num": "cro6",
+      "name": "Luka Vu\u0161kovi\u0107",
+      "file": "cro6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cro6.jpg"
+    },
+    {
+      "num": "cro7",
+      "name": "Josip Sutalo",
+      "file": "cro7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cro7.jpg"
+    },
+    {
+      "num": "cro8",
+      "name": "Kristijan Jakic",
+      "file": "cro8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cro8.jpg"
+    },
+    {
+      "num": "cro9",
+      "name": "Luka Modri\u0107",
+      "file": "cro9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cro9.jpg"
+    },
+    {
+      "num": "cro10",
+      "name": "Mateo Kovacic",
+      "file": "cro10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cro10.jpg"
+    },
+    {
+      "num": "cro11",
+      "name": "Martin Baturina",
+      "file": "cro11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cro11.jpg"
+    },
+    {
+      "num": "cro12",
+      "name": "Lovro Majer",
+      "file": "cro12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cro12.jpg"
+    },
+    {
+      "num": "cro13",
+      "name": "Team Photo",
+      "file": "cro13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cro13.jpg"
+    },
+    {
+      "num": "cro14",
+      "name": "Mario Pasalic",
+      "file": "cro14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cro14.jpg"
+    },
+    {
+      "num": "cro15",
+      "name": "Petar Sucic",
+      "file": "cro15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cro15.jpg"
+    },
+    {
+      "num": "cro16",
+      "name": "Ivan Peri\u0161i\u0107",
+      "file": "cro16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cro16.jpg"
+    },
+    {
+      "num": "cro17",
+      "name": "Marco Pasalic",
+      "file": "cro17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cro17.jpg"
+    },
+    {
+      "num": "cro18",
+      "name": "Ante Budimir",
+      "file": "cro18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cro18.jpg"
+    },
+    {
+      "num": "cro19",
+      "name": "Andrej Kramari\u0107",
+      "file": "cro19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cro19.jpg"
+    },
+    {
+      "num": "cro20",
+      "name": "Franjo Ivanovic",
+      "file": "cro20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cro20.jpg"
+    },
+    {
+      "num": "gha1",
+      "name": "Emblem",
+      "file": "gha1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/gha1.jpg"
+    },
+    {
+      "num": "gha2",
+      "name": "Lawrence Ati Zigi",
+      "file": "gha2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/gha2.jpg"
+    },
+    {
+      "num": "gha3",
+      "name": "Tariq Lamptey",
+      "file": "gha3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/gha3.jpg"
+    },
+    {
+      "num": "gha4",
+      "name": "Mohammed Salisu",
+      "file": "gha4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/gha4.jpg"
+    },
+    {
+      "num": "gha5",
+      "name": "Alidu Seidu",
+      "file": "gha5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/gha5.jpg"
+    },
+    {
+      "num": "gha6",
+      "name": "Alexander Djiku",
+      "file": "gha6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/gha6.jpg"
+    },
+    {
+      "num": "gha7",
+      "name": "Gideon Mensah",
+      "file": "gha7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/gha7.jpg"
+    },
+    {
+      "num": "gha8",
+      "name": "Caleb Yirenkyi",
+      "file": "gha8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/gha8.jpg"
+    },
+    {
+      "num": "gha9",
+      "name": "Abdul Issahaku Fatawu",
+      "file": "gha9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/gha9.jpg"
+    },
+    {
+      "num": "gha10",
+      "name": "Thomas Partey",
+      "file": "gha10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/gha10.jpg"
+    },
+    {
+      "num": "gha11",
+      "name": "Salis Abdul Samed",
+      "file": "gha11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/gha11.jpg"
+    },
+    {
+      "num": "gha12",
+      "name": "Kamaldeen Sulemana",
+      "file": "gha12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/gha12.jpg"
+    },
+    {
+      "num": "gha13",
+      "name": "Team Photo",
+      "file": "gha13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/gha13.jpg"
+    },
+    {
+      "num": "gha14",
+      "name": "Mohammed Kudus",
+      "file": "gha14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/gha14.jpg"
+    },
+    {
+      "num": "gha15",
+      "name": "Inaki Williams",
+      "file": "gha15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/gha15.jpg"
+    },
+    {
+      "num": "gha16",
+      "name": "Jordan Ayew",
+      "file": "gha16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/gha16.jpg"
+    },
+    {
+      "num": "gha17",
+      "name": "Andr\u00e9 Ayew",
+      "file": "gha17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/gha17.jpg"
+    },
+    {
+      "num": "gha18",
+      "name": "Joseph Paintsil",
+      "file": "gha18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/gha18.jpg"
+    },
+    {
+      "num": "gha19",
+      "name": "Osman Bukari",
+      "file": "gha19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/gha19.jpg"
+    },
+    {
+      "num": "gha20",
+      "name": "Antoine Semenyo",
+      "file": "gha20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/gha20.jpg"
+    },
+    {
+      "num": "pan1",
+      "name": "Emblem",
+      "file": "pan1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/pan1.jpg"
+    },
+    {
+      "num": "pan2",
+      "name": "Orlando Mosquera",
+      "file": "pan2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/pan2.jpg"
+    },
+    {
+      "num": "pan3",
+      "name": "Luis Mejia",
+      "file": "pan3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/pan3.jpg"
+    },
+    {
+      "num": "pan4",
+      "name": "Fidel Escobar",
+      "file": "pan4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/pan4.jpg"
+    },
+    {
+      "num": "pan5",
+      "name": "Andres Andrade",
+      "file": "pan5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/pan5.jpg"
+    },
+    {
+      "num": "pan6",
+      "name": "Michael Amir Murillo",
+      "file": "pan6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/pan6.jpg"
+    },
+    {
+      "num": "pan7",
+      "name": "Eric Davis",
+      "file": "pan7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/pan7.jpg"
+    },
+    {
+      "num": "pan8",
+      "name": "Jose Cordoba",
+      "file": "pan8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/pan8.jpg"
+    },
+    {
+      "num": "pan9",
+      "name": "Cesar Blackman",
+      "file": "pan9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/pan9.jpg"
+    },
+    {
+      "num": "pan10",
+      "name": "Cristian Martinez",
+      "file": "pan10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/pan10.jpg"
+    },
+    {
+      "num": "pan11",
+      "name": "An\u00edbal Godoy",
+      "file": "pan11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/pan11.jpg"
+    },
+    {
+      "num": "pan12",
+      "name": "Adalberto Carrasquilla",
+      "file": "pan12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/pan12.jpg"
+    },
+    {
+      "num": "pan13",
+      "name": "Team Photo",
+      "file": "pan13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/pan13.jpg"
+    },
+    {
+      "num": "pan14",
+      "name": "\u00c9dgar B\u00e1rcenas",
+      "file": "pan14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/pan14.jpg"
+    },
+    {
+      "num": "pan15",
+      "name": "Carlos Harvey",
+      "file": "pan15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/pan15.jpg"
+    },
+    {
+      "num": "pan16",
+      "name": "Ismael D\u00edaz",
+      "file": "pan16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/pan16.jpg"
+    },
+    {
+      "num": "pan17",
+      "name": "Jose Fajardo",
+      "file": "pan17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/pan17.jpg"
+    },
+    {
+      "num": "pan18",
+      "name": "Cecilio Waterman",
+      "file": "pan18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/pan18.jpg"
+    },
+    {
+      "num": "pan19",
+      "name": "Jose Luiz Rodriguez",
+      "file": "pan19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/pan19.jpg"
+    },
+    {
+      "num": "pan20",
+      "name": "Alberto Quintero",
+      "file": "pan20.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/pan20.jpg"
+    },
+    {
+      "num": "fwc9",
+      "name": "Italy 1934",
+      "file": "fwc9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/fwc9.jpg"
+    },
+    {
+      "num": "fwc10",
+      "name": "Uruguay 1950",
+      "file": "fwc10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/fwc10.jpg"
+    },
+    {
+      "num": "fwc11",
+      "name": "West Germany 1954",
+      "file": "fwc11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/fwc11.jpg"
+    },
+    {
+      "num": "fwc12",
+      "name": "Brazil 1962",
+      "file": "fwc12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/fwc12.jpg"
+    },
+    {
+      "num": "fwc13",
+      "name": "West Germany 1974",
+      "file": "fwc13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/fwc13.jpg"
+    },
+    {
+      "num": "fwc14",
+      "name": "Argentina 1986",
+      "file": "fwc14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/fwc14.jpg"
+    },
+    {
+      "num": "fwc15",
+      "name": "Brazil 1994",
+      "file": "fwc15.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/fwc15.jpg"
+    },
+    {
+      "num": "fwc16",
+      "name": "Brazil 2002",
+      "file": "fwc16.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/fwc16.jpg"
+    },
+    {
+      "num": "fwc17",
+      "name": "Italy 2006",
+      "file": "fwc17.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/fwc17.jpg"
+    },
+    {
+      "num": "fwc18",
+      "name": "Germany 2014",
+      "file": "fwc18.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/fwc18.jpg"
+    },
+    {
+      "num": "fwc19",
+      "name": "Argentina 2022",
+      "file": "fwc19.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/fwc19.jpg"
+    },
+    {
+      "num": "cc-us1",
+      "name": "Lamine Yamal",
+      "file": "cc-us1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-us1.jpg"
+    },
+    {
+      "num": "cc-us2",
+      "name": "Joshua Kimmich",
+      "file": "cc-us2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-us2.jpg"
+    },
+    {
+      "num": "cc-us3",
+      "name": "Harry Kane",
+      "file": "cc-us3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-us3.jpg"
+    },
+    {
+      "num": "cc-us4",
+      "name": "Santiago Gim\u00e9nez",
+      "file": "cc-us4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-us4.jpg"
+    },
+    {
+      "num": "cc-us5",
+      "name": "Antonee Robinson",
+      "file": "cc-us5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-us5.jpg"
+    },
+    {
+      "num": "cc-us6",
+      "name": "Jefferson Lerma",
+      "file": "cc-us6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-us6.jpg"
+    },
+    {
+      "num": "cc-us7",
+      "name": "Edson \u00c1lvarez",
+      "file": "cc-us7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-us7.jpg"
+    },
+    {
+      "num": "cc-us8",
+      "name": "Virgil van Dijk",
+      "file": "cc-us8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-us8.jpg"
+    },
+    {
+      "num": "cc-us9",
+      "name": "Alphonso Davies",
+      "file": "cc-us9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-us9.jpg"
+    },
+    {
+      "num": "cc-us10",
+      "name": "Weston McKennie",
+      "file": "cc-us10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-us10.jpg"
+    },
+    {
+      "num": "cc-us11",
+      "name": "Lautaro Mart\u00ednez",
+      "file": "cc-us11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-us11.jpg"
+    },
+    {
+      "num": "cc-us12",
+      "name": "Gabriel Magalh\u00e3es",
+      "file": "cc-us12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-us12.jpg"
+    },
+    {
+      "num": "cc-lam1",
+      "name": "Lamine Yamal",
+      "file": "cc-lam1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-lam1.jpg"
+    },
+    {
+      "num": "cc-lam2",
+      "name": "Joshua Kimmich",
+      "file": "cc-lam2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-lam2.jpg"
+    },
+    {
+      "num": "cc-lam3",
+      "name": "Harry Kane",
+      "file": "cc-lam3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-lam3.jpg"
+    },
+    {
+      "num": "cc-lam4",
+      "name": "Santiago Gim\u00e9nez",
+      "file": "cc-lam4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-lam4.jpg"
+    },
+    {
+      "num": "cc-lam5",
+      "name": "Josko Gvardiol",
+      "file": "cc-lam5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-lam5.jpg"
+    },
+    {
+      "num": "cc-lam6",
+      "name": "Federico Valverde",
+      "file": "cc-lam6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-lam6.jpg"
+    },
+    {
+      "num": "cc-lam7",
+      "name": "Jefferson Lerma",
+      "file": "cc-lam7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-lam7.jpg"
+    },
+    {
+      "num": "cc-lam8",
+      "name": "Enner Valencia",
+      "file": "cc-lam8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-lam8.jpg"
+    },
+    {
+      "num": "cc-lam9",
+      "name": "Gabriel Magalh\u00e3es",
+      "file": "cc-lam9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-lam9.jpg"
+    },
+    {
+      "num": "cc-lam10",
+      "name": "Virgil van Dijk",
+      "file": "cc-lam10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-lam10.jpg"
+    },
+    {
+      "num": "cc-lam11",
+      "name": "Alphonso Davies",
+      "file": "cc-lam11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-lam11.jpg"
+    },
+    {
+      "num": "cc-lam12",
+      "name": "Emiliano Martinez",
+      "file": "cc-lam12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-lam12.jpg"
+    },
+    {
+      "num": "cc-lam13",
+      "name": "Ra\u00fal Jim\u00e9nez",
+      "file": "cc-lam13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-lam13.jpg"
+    },
+    {
+      "num": "cc-lam14",
+      "name": "Lautaro Mart\u00ednez",
+      "file": "cc-lam14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-lam14.jpg"
+    },
+    {
+      "num": "cc-rw1",
+      "name": "Lamine Yamal",
+      "file": "cc-rw1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-rw1.jpg"
+    },
+    {
+      "num": "cc-rw2",
+      "name": "Joshua Kimmich",
+      "file": "cc-rw2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-rw2.jpg"
+    },
+    {
+      "num": "cc-rw3",
+      "name": "Harry Kane",
+      "file": "cc-rw3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-rw3.jpg"
+    },
+    {
+      "num": "cc-rw4",
+      "name": "Edson \u00c1lvarez",
+      "file": "cc-rw4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-rw4.jpg"
+    },
+    {
+      "num": "cc-rw5",
+      "name": "Josko Gvardiol",
+      "file": "cc-rw5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-rw5.jpg"
+    },
+    {
+      "num": "cc-rw6",
+      "name": "Federico Valverde",
+      "file": "cc-rw6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-rw6.jpg"
+    },
+    {
+      "num": "cc-rw7",
+      "name": "Jefferson Lerma",
+      "file": "cc-rw7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-rw7.jpg"
+    },
+    {
+      "num": "cc-rw8",
+      "name": "Enner Valencia",
+      "file": "cc-rw8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-rw8.jpg"
+    },
+    {
+      "num": "cc-rw9",
+      "name": "Jordan Ayew",
+      "file": "cc-rw9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-rw9.jpg"
+    },
+    {
+      "num": "cc-rw10",
+      "name": "Virgil van Dijk",
+      "file": "cc-rw10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-rw10.jpg"
+    },
+    {
+      "num": "cc-rw11",
+      "name": "Alphonso Davies",
+      "file": "cc-rw11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-rw11.jpg"
+    },
+    {
+      "num": "cc-rw12",
+      "name": "Weston McKennie",
+      "file": "cc-rw12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-rw12.jpg"
+    },
+    {
+      "num": "cc-rw13",
+      "name": "Eduardo Camavinga",
+      "file": "cc-rw13.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-rw13.jpg"
+    },
+    {
+      "num": "cc-rw14",
+      "name": "Lautaro Mart\u00ednez",
+      "file": "cc-rw14.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-rw14.jpg"
+    },
+    {
+      "num": "cc-eu1",
+      "name": "Lamine Yamal",
+      "file": "cc-eu1.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-eu1.jpg"
+    },
+    {
+      "num": "cc-eu2",
+      "name": "Joshua Kimmich",
+      "file": "cc-eu2.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-eu2.jpg"
+    },
+    {
+      "num": "cc-eu3",
+      "name": "Eduardo Camavinga",
+      "file": "cc-eu3.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-eu3.jpg"
+    },
+    {
+      "num": "cc-eu4",
+      "name": "Josko Gvardiol",
+      "file": "cc-eu4.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-eu4.jpg"
+    },
+    {
+      "num": "cc-eu5",
+      "name": "Federico Valverde",
+      "file": "cc-eu5.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-eu5.jpg"
+    },
+    {
+      "num": "cc-eu6",
+      "name": "Virgil van Dijk",
+      "file": "cc-eu6.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-eu6.jpg"
+    },
+    {
+      "num": "cc-eu7",
+      "name": "Alphonso Davies",
+      "file": "cc-eu7.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-eu7.jpg"
+    },
+    {
+      "num": "cc-eu8",
+      "name": "Ra\u00fal Jim\u00e9nez",
+      "file": "cc-eu8.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-eu8.jpg"
+    },
+    {
+      "num": "cc-eu9",
+      "name": "William Saliba",
+      "file": "cc-eu9.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-eu9.jpg"
+    },
+    {
+      "num": "cc-eu10",
+      "name": "Lautaro Mart\u00ednez",
+      "file": "cc-eu10.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-eu10.jpg"
+    },
+    {
+      "num": "cc-eu11",
+      "name": "Harry Kane",
+      "file": "cc-eu11.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-eu11.jpg"
+    },
+    {
+      "num": "cc-eu12",
+      "name": "Antonee Robinson",
+      "file": "cc-eu12.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cc-eu12.jpg"
+    },
+    {
+      "num": "lm",
+      "name": "Lionel Messi",
+      "file": "lm.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/lm.jpg"
+    },
+    {
+      "num": "jd",
+      "name": "J\u00e9r\u00e9my Doku",
+      "file": "jd.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jd.jpg"
+    },
+    {
+      "num": "vj",
+      "name": "Vin\u00edc\u00ed\u00fas J\u00fanior",
+      "file": "vj.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/vj.jpg"
+    },
+    {
+      "num": "ad",
+      "name": "Alphonso Davies",
+      "file": "ad.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ad.jpg"
+    },
+    {
+      "num": "ld",
+      "name": "Luis D\u00edaz",
+      "file": "ld.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ld.jpg"
+    },
+    {
+      "num": "lmo",
+      "name": "Luka Modri\u0107",
+      "file": "lmo.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/lmo.jpg"
+    },
+    {
+      "num": "mc",
+      "name": "Mois\u00e9s Caicedo",
+      "file": "mc.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/mc.jpg"
+    },
+    {
+      "num": "ms",
+      "name": "Mohamed Salah",
+      "file": "ms.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ms.jpg"
+    },
+    {
+      "num": "jb",
+      "name": "Jude Bellingham",
+      "file": "jb.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/jb.jpg"
+    },
+    {
+      "num": "km",
+      "name": "Kylian Mbapp\u00e9",
+      "file": "km.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/km.jpg"
+    },
+    {
+      "num": "fw",
+      "name": "Florian Wirtz",
+      "file": "fw.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/fw.jpg"
+    },
+    {
+      "num": "rj",
+      "name": "Ra\u00fal Jim\u00e9nez",
+      "file": "rj.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/rj.jpg"
+    },
+    {
+      "num": "ah",
+      "name": "Achraf Hakimi",
+      "file": "ah.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ah.jpg"
+    },
+    {
+      "num": "eh",
+      "name": "Erling Haaland",
+      "file": "eh.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/eh.jpg"
+    },
+    {
+      "num": "cg",
+      "name": "Cody Gakpo",
+      "file": "cg.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cg.jpg"
+    },
+    {
+      "num": "cr",
+      "name": "Cristiano Ronaldo",
+      "file": "cr.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cr.jpg"
+    },
+    {
+      "num": "hs",
+      "name": "Heung-min Son",
+      "file": "hs.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/hs.jpg"
+    },
+    {
+      "num": "ly",
+      "name": "Lamine Yamal",
+      "file": "ly.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/ly.jpg"
+    },
+    {
+      "num": "cp",
+      "name": "Christian Pulisic",
+      "file": "cp.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/cp.jpg"
+    },
+    {
+      "num": "fv",
+      "name": "Federico Valverde",
+      "file": "fv.jpg",
+      "url": "https://www.laststicker.com/i/cards/12176/fv.jpg"
+    }
+  ]
+}

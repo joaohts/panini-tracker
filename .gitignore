@@ -20,6 +20,9 @@
 # production
 /build
 
+# sqlite collection backend (user data — never commit)
+/data
+
 # misc
 .DS_Store
 *.pem
@@ -39,3 +42,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# internal session/coordination docs (not for the public repo)
+COMMUNICATION.txt
+BACKEND_SPEC.md
+CONTRACT.md
