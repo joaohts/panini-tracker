@@ -1,16 +1,17 @@
 "use client";
 
 import { useMemo, useRef, useState } from "react";
-import { ArrowLeft } from "lucide-react";
+import { ArrowLeft, Loader2 } from "lucide-react";
 import { STICKERS, BASE_COUNT, teamLabel } from "@/lib/stickers";
 import { SECTION_OF, sectionLabel } from "@/app/api/scan/sections";
 import { useCollection } from "@/store/collection";
+import { useCountsLoading } from "@/lib/useCountsLoading";
 import { StickerCard } from "./StickerCard";
 import { StickerControls } from "./StickerControls";
-import { DevBar } from "./DevBar";
 import { TeamCombobox } from "./TeamCombobox";
 import { Button } from "@/components/ui/button";
 import { Progress } from "@/components/ui/progress";
+import { Skeleton } from "@/components/ui/skeleton";
 import { cn } from "@/lib/utils";
 
 type Filter = "all" | "owned" | "missing" | "dupes";
@@ -47,6 +48,10 @@ export function BrowseView() {
   const [team, setTeam] = useState<string>("all");
   const [mode, setMode] = useState<"grid" | "swipe">("grid");
   const [swipeIndex, setSwipeIndex] = useState(0);
+
+  // Until counts are trustworthy, show loaders for the progress/percentage and
+  // per-section counters instead of a 0% flash.
+  const loading = useCountsLoading();
 
   const ownedBase = useMemo(
     () =>
@@ -121,19 +126,15 @@ export function BrowseView() {
 
   return (
     <main className="mx-auto flex max-w-[1800px] flex-col gap-4 px-4 py-7 sm:px-10 lg:px-16">
-        <DevBar />
-
         {mode === "grid" ? (
           /* one row on desktop: progress (far left) · pills (left) · country (right) */
           <div className="flex flex-col gap-3 sm:flex-row sm:flex-wrap sm:items-center">
             <div className="flex items-center gap-3">
-              <Progress
+              <ProgressStat
+                loading={loading}
                 value={(ownedBase / BASE_COUNT) * 100}
-                className="min-w-0 flex-1 sm:w-40 sm:flex-none"
+                pct={pct}
               />
-              <span className="shrink-0 text-sm font-semibold tabular-nums text-foreground">
-                {pct}%
-              </span>
             </div>
             <div className="flex flex-wrap gap-1.5">
               {FILTERS.map((f) => (
@@ -168,13 +169,11 @@ export function BrowseView() {
               <ArrowLeft className="h-4 w-4" />
               Voltar
             </button>
-            <Progress
+            <ProgressStat
+              loading={loading}
               value={(ownedBase / BASE_COUNT) * 100}
-              className="min-w-0 flex-1 sm:w-40 sm:flex-none"
+              pct={pct}
             />
-            <span className="shrink-0 text-sm font-semibold tabular-nums text-foreground">
-              {pct}%
-            </span>
           </div>
         )}
 
@@ -195,11 +194,13 @@ export function BrowseView() {
                     <h2 className="font-display text-xl uppercase text-foreground">
                       {sectionTitle(g.section)}
                     </h2>
-                    {stats && (
+                    {loading ? (
+                      <Skeleton className="h-5 w-12 rounded-full" />
+                    ) : stats ? (
                       <span className="rounded-full bg-secondary px-2.5 py-0.5 text-xs font-semibold tabular-nums text-muted-foreground">
                         {stats.owned}/{stats.total}
                       </span>
-                    )}
+                    ) : null}
                     <div className="h-px flex-1 bg-border" />
                   </div>
                   {/* fixed-height row: landscape cards are portrait cards rotated 90° */}
@@ -281,5 +282,33 @@ export function BrowseView() {
           </p>
         )}
       </main>
+  );
+}
+
+/** Progress bar + percentage. While counts load, the bar sits empty and the
+ *  percentage is replaced by a spinner. */
+function ProgressStat({
+  loading,
+  value,
+  pct,
+}: {
+  loading: boolean;
+  value: number;
+  pct: number;
+}) {
+  return (
+    <>
+      <Progress
+        value={loading ? 0 : value}
+        className="min-w-0 flex-1 sm:w-40 sm:flex-none"
+      />
+      {loading ? (
+        <Loader2 className="h-4 w-4 shrink-0 animate-spin text-muted-foreground" />
+      ) : (
+        <span className="shrink-0 text-sm font-semibold tabular-nums text-foreground">
+          {pct}%
+        </span>
+      )}
+    </>
   );
 }

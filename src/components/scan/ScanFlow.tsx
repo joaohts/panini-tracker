@@ -133,6 +133,7 @@ export function ScanFlow() {
         </div>
         <Button
           size="lg"
+          nativeButton={false}
           className="bg-success text-black hover:bg-success/85"
           render={<Link href="/login">Fazer login</Link>}
         />
@@ -253,7 +254,7 @@ export function ScanFlow() {
           <Button size="lg" onClick={reset} className="bg-success text-black hover:bg-success/85">
             Escanear mais
           </Button>
-          <Button size="lg" variant="outline" render={<Link href="/">Ver álbum</Link>} />
+          <Button size="lg" variant="outline" nativeButton={false} render={<Link href="/">Ver álbum</Link>} />
         </div>
       </div>
     );

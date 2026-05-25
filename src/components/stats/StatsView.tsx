@@ -1,12 +1,16 @@
 "use client";
 
 import { useMemo } from "react";
+import { Loader2 } from "lucide-react";
 import { STICKERS, BASE_COUNT, TEAMS, teamLabel } from "@/lib/stickers";
 import { useCollection } from "@/store/collection";
+import { useCountsLoading } from "@/lib/useCountsLoading";
 import { Progress } from "@/components/ui/progress";
+import { Skeleton } from "@/components/ui/skeleton";
 
 export function StatsView() {
   const entries = useCollection((s) => s.entries);
+  const loading = useCountsLoading();
 
   const stats = useMemo(() => {
     let ownedBase = 0;
@@ -76,12 +80,16 @@ export function StatsView() {
         <h1 className="font-display text-2xl uppercase">Stats</h1>
         <div className="flex items-center gap-3">
           <Progress
-            value={(stats.ownedBase / BASE_COUNT) * 100}
+            value={loading ? 0 : (stats.ownedBase / BASE_COUNT) * 100}
             className="min-w-0 flex-1"
           />
-          <span className="shrink-0 text-sm font-semibold tabular-nums text-foreground">
-            {stats.ownedBase} / {BASE_COUNT} · {pct}%
-          </span>
+          {loading ? (
+            <Loader2 className="h-4 w-4 shrink-0 animate-spin text-muted-foreground" />
+          ) : (
+            <span className="shrink-0 text-sm font-semibold tabular-nums text-foreground">
+              {stats.ownedBase} / {BASE_COUNT} · {pct}%
+            </span>
+          )}
         </div>
       </div>
 
@@ -94,10 +102,19 @@ export function StatsView() {
             <div className="text-xs font-semibold uppercase tracking-wide text-muted-foreground">
               {t.label}
             </div>
-            <div className={`mt-1 font-display text-3xl ${t.color}`}>
-              {t.value}
-            </div>
-            <div className="text-xs text-muted-foreground">{t.sub}</div>
+            {loading ? (
+              <>
+                <Skeleton className="mt-1.5 h-8 w-20" />
+                <Skeleton className="mt-2 h-3 w-24" />
+              </>
+            ) : (
+              <>
+                <div className={`mt-1 font-display text-3xl ${t.color}`}>
+                  {t.value}
+                </div>
+                <div className="text-xs text-muted-foreground">{t.sub}</div>
+              </>
+            )}
           </div>
         ))}
       </div>
@@ -117,10 +134,19 @@ export function StatsView() {
               <div className="text-xs font-semibold uppercase tracking-wide text-muted-foreground">
                 {t.label}
               </div>
-              <div className={`mt-1 font-display text-3xl ${t.color}`}>
-                {t.value}
-              </div>
-              <div className="text-xs text-muted-foreground">{t.sub}</div>
+              {loading ? (
+                <>
+                  <Skeleton className="mt-1.5 h-8 w-20" />
+                  <Skeleton className="mt-2 h-3 w-24" />
+                </>
+              ) : (
+                <>
+                  <div className={`mt-1 font-display text-3xl ${t.color}`}>
+                    {t.value}
+                  </div>
+                  <div className="text-xs text-muted-foreground">{t.sub}</div>
+                </>
+              )}
             </div>
           ))}
         </div>
@@ -140,12 +166,16 @@ export function StatsView() {
                   {teamLabel(t)}
                 </span>
                 <Progress
-                  value={(ps.owned / ps.total) * 100}
+                  value={loading ? 0 : (ps.owned / ps.total) * 100}
                   className="min-w-0 flex-1"
                 />
-                <span className="w-12 shrink-0 text-right text-xs tabular-nums text-muted-foreground sm:w-16">
-                  {ps.owned}/{ps.total}
-                </span>
+                {loading ? (
+                  <Skeleton className="h-3.5 w-12 shrink-0 sm:w-16" />
+                ) : (
+                  <span className="w-12 shrink-0 text-right text-xs tabular-nums text-muted-foreground sm:w-16">
+                    {ps.owned}/{ps.total}
+                  </span>
+                )}
               </div>
             );
           })}

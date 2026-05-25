@@ -121,17 +121,26 @@ export function ScanReview({
       })}
 
       <div className="sticky bottom-3 z-10 mt-2 flex gap-2 rounded-xl border bg-background/90 p-3 shadow-lg backdrop-blur">
-        <Button type="button" variant="outline" size="lg" onClick={onRescan}>
-          <RotateCcw /> Escanear de novo
+        <Button
+          type="button"
+          variant="outline"
+          size="icon-lg"
+          onClick={onRescan}
+          aria-label="Escanear de novo"
+        >
+          <RotateCcw />
         </Button>
         <Button
           type="button"
           size="lg"
           onClick={handleSave}
           disabled={filledNums.length === 0}
-          className="ml-auto bg-success text-black hover:bg-success/85"
+          className="min-w-0 flex-1 bg-success text-black hover:bg-success/85"
         >
-          <Save /> Salvar {newCount > 0 ? `(${newCount} nova${newCount === 1 ? "" : "s"})` : ""}
+          <Save className="shrink-0" />
+          <span className="truncate">
+            Salvar {newCount > 0 ? `(${newCount} nova${newCount === 1 ? "" : "s"})` : ""}
+          </span>
         </Button>
       </div>
 

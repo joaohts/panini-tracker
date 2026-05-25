@@ -70,19 +70,22 @@ export function ScanTray({
       </div>
 
       {/* actions */}
-      <div className="flex flex-wrap gap-2">
-        <Button type="button" variant="outline" size="lg" disabled={busy} onClick={() => cameraRef.current?.click()}>
-          <Camera /> Tirar foto
-        </Button>
-        <Button type="button" variant="outline" size="lg" disabled={busy} onClick={() => galleryRef.current?.click()}>
-          <ImagePlus /> Enviar
-        </Button>
+      <div className="flex flex-col gap-2 sm:flex-row sm:flex-wrap">
+        {/* capture pair: split the full width on mobile, natural width on desktop */}
+        <div className="flex w-full gap-2 sm:w-auto">
+          <Button type="button" variant="outline" size="lg" disabled={busy} onClick={() => cameraRef.current?.click()} className="flex-1 sm:flex-none">
+            <Camera /> Tirar foto
+          </Button>
+          <Button type="button" variant="outline" size="lg" disabled={busy} onClick={() => galleryRef.current?.click()} className="flex-1 sm:flex-none">
+            <ImagePlus /> Enviar
+          </Button>
+        </div>
         <Button
           type="button"
           size="lg"
           disabled={busy || images.length === 0}
           onClick={onScan}
-          className="ml-auto bg-success text-black hover:bg-success/85"
+          className="w-full bg-success text-black hover:bg-success/85 sm:ml-auto sm:w-auto"
         >
           <ScanLine />
           {busy ? "Lendo…" : `Escanear ${images.length || ""} ${images.length === 1 ? "página" : "páginas"}`.trim()}
