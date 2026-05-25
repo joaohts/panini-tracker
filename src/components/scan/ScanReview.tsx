@@ -7,6 +7,7 @@ import { BY_NUM, imageSrc } from "@/lib/stickers";
 import { sectionLabel } from "@/app/api/scan/sections";
 import { cn } from "@/lib/utils";
 import { Button } from "@/components/ui/button";
+import { syncNow } from "@/lib/sync";
 import { useApplyScan } from "./useApplyScan";
 
 export interface ReviewRow {
@@ -66,7 +67,8 @@ export function ScanReview({
     const clear = rows
       .filter((r) => intended[r.num] === "empty" && r.ownedCount >= 1)
       .map((r) => r.num);
-    commit(filled, clear);
+    commit(filled, clear); // store first…
+    void syncNow(); // …then push straight to the DB (survives client navigation)
     onDone(newCount, clear.length);
   }
 
