@@ -1,7 +1,7 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import { AlertTriangle, Check, RotateCcw, Save } from "lucide-react";
+import { AlertTriangle, Check, Eye, RotateCcw, Save } from "lucide-react";
 import type { ScanStatus } from "@/lib/types";
 import { BY_NUM, imageSrc } from "@/lib/stickers";
 import { sectionLabel } from "@/app/api/scan/sections";
@@ -151,6 +151,10 @@ function Row({
   const owned = status === "filled";
   const showArt = owned && sticker?.hasImage;
   const typeB = isTypeB(row);
+  // Crest (slot 1) and the wide squad photo (slot 13) are the scanner's weakest
+  // reads — a quiet visual nudge to eyeball them. No extra interaction.
+  const reviewSlot =
+    /^[a-z]{3}$/.test(row.section) && ["1", "13"].includes(row.num.match(/\d+$/)?.[0] ?? "");
 
   return (
     <button
@@ -159,6 +163,7 @@ function Row({
       className={cn(
         "flex w-full items-center gap-3 rounded-lg border p-2 text-left transition",
         owned ? "border-success/50 bg-success/10" : "border-dashed border-border bg-muted/40",
+        reviewSlot && "ring-1 ring-brand/40",
       )}
     >
       <div className="flex h-12 w-10 shrink-0 items-center justify-center overflow-hidden rounded-md bg-card">
@@ -179,6 +184,9 @@ function Row({
             <span className="rounded-full bg-gold px-1.5 py-px text-[10px] font-extrabold text-black">
               ×{row.ownedCount}
             </span>
+          )}
+          {reviewSlot && (
+            <Eye className="h-3.5 w-3.5 shrink-0 text-brand/70" aria-label="confira esta figurinha" />
           )}
         </p>
         <p className="truncate text-xs text-muted-foreground">{sticker?.name ?? "—"}</p>

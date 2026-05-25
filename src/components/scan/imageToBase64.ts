@@ -10,7 +10,7 @@ export interface EncodedImage {
 
 export async function fileToEncodedImage(
   file: File,
-  maxDim = 1600,
+  maxDim = 2000,
   quality = 0.85,
 ): Promise<EncodedImage> {
   const bitmap = await createImageBitmap(file, {
