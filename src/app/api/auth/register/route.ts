@@ -48,6 +48,8 @@ export async function POST(req: Request): Promise<Response> {
     "INSERT INTO users (id, username, display_name, pw_hash, created_at) VALUES (?, ?, ?, ?, ?)",
   ).run(user.id, user.username, user.displayName, hashPassword(password), new Date().toISOString());
 
-  await setSessionCookie(createSession(user.id));
-  return json({ user });
+  // Cookie for web; token in body so native clients can use a Bearer header.
+  const token = createSession(user.id);
+  await setSessionCookie(token);
+  return json({ user, token });
 }

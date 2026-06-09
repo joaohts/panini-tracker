@@ -30,6 +30,12 @@ export async function POST(req: Request): Promise<Response> {
     return json({ error: GENERIC_AUTH_ERROR }, 401);
   }
 
-  await setSessionCookie(createSession(row.id));
-  return json({ user: { id: row.id, username: row.username, displayName: row.displayName } });
+  // Set the httpOnly cookie (web) and also return the token in the body so
+  // native clients (mobile app) can store it and send it as a Bearer header.
+  const token = createSession(row.id);
+  await setSessionCookie(token);
+  return json({
+    user: { id: row.id, username: row.username, displayName: row.displayName },
+    token,
+  });
 }
