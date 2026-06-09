@@ -3,7 +3,12 @@
 import { useEffect, useRef } from "react";
 
 // A section becomes "current" once its top crosses this line (px from viewport top).
-const TOP = 96;
+// MUST sit below where a restored section lands: sections use `scroll-mt-24`
+// (96px), so a refresh scrolls the section title to y≈96. Keeping this line lower
+// (120 > 96) makes a just-restored section unambiguously the active one — at the
+// same value, sub-pixel rounding can pick the section above and the hash drifts
+// upward by one section on every refresh.
+const TOP = 120;
 
 /**
  * Markdown-docs-style scroll memory: as a `[data-section]` header scrolls past
