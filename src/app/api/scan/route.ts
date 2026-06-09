@@ -8,6 +8,7 @@
 // Server-side only; the API key never reaches the browser.
 
 import type { ScanResponse, ScanStatus } from "@/lib/types";
+import { authUser, rateLimit } from "@/server/http";
 import { VALID_NUMS } from "@/lib/stickers";
 import { runScan, ConfigError, VisionError, type VisionReading } from "./providers";
 import { SECTION_MEMBERS, SECTION_OF, PAGE_TO_SECTION, resolveSection } from "./sections";
@@ -31,6 +32,14 @@ function normalize(s: string): string {
 }
 
 export async function POST(request: Request): Promise<Response> {
+  // Scanning spends a paid vision call, so require login and throttle per user
+  // — this endpoint must never be an open proxy to the AI provider.
+  const user = await authUser(request);
+  if (!user) return err(401, "Authentication required");
+  if (!rateLimit(`scan:${user.id}`, 30, 60_000)) {
+    return err(429, "Too many scans — slow down a moment");
+  }
+
   let body: unknown;
   try {
     body = await request.json();
