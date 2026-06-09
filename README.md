@@ -1,5 +1,25 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Quick local test setup
+
+```bash
+npm install
+cp .env.example .env.local   # config; edit only if you need the scan feature
+npm run seed                 # creates data/stickers.db + a fake account
+npm run dev                  # http://localhost:3000
+```
+
+Browse/swipe work without logging in. To test the synced collection, log in with
+the seeded account:
+
+- **username:** `tester`
+- **password:** `panini123`
+
+`npm run seed` is idempotent — re-run it any time to reset the tester account.
+Each run owns a fresh **random ~half** of the set (with some duplicates), so the
+progress bar and filters always have realistic data. The SQLite file under
+`data/` is gitignored (user data); the seed script is the committed setup.
+
 ## Getting Started
 
 First, run the development server:

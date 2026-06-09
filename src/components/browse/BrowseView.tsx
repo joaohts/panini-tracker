@@ -1,12 +1,15 @@
 "use client";
 
-import { useMemo, useRef, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { ArrowLeft, Loader2 } from "lucide-react";
 import { STICKERS, BASE_COUNT, teamLabel } from "@/lib/stickers";
 import { SECTION_OF, sectionLabel } from "@/app/api/scan/sections";
 import { useCollection } from "@/store/collection";
+import { useAuth } from "@/store/auth";
 import { useCountsLoading } from "@/lib/useCountsLoading";
+import { useSectionScrollSpy } from "@/lib/useSectionScrollSpy";
 import { StickerCard } from "./StickerCard";
+import { StickerGridCell } from "./StickerGridCell";
 import { StickerControls } from "./StickerControls";
 import { TeamCombobox } from "./TeamCombobox";
 import { Button } from "@/components/ui/button";
@@ -42,12 +45,19 @@ const SECTIONS: string[] = (() => {
   return order;
 })();
 
+// Valid country codes, for sanitizing the ?team= URL param.
+const TEAMS = new Set(STICKERS.map((s) => s.team));
+
 export function BrowseView() {
   const entries = useCollection((s) => s.entries);
+  const setCount = useCollection((s) => s.setCount);
+  const loggedIn = useAuth((s) => s.status) === "in";
   const [filter, setFilter] = useState<Filter>("all");
   const [team, setTeam] = useState<string>("all");
   const [mode, setMode] = useState<"grid" | "swipe">("grid");
   const [swipeIndex, setSwipeIndex] = useState(0);
+  // Gates URL writes until we've restored from the URL on mount (below).
+  const [urlReady, setUrlReady] = useState(false);
 
   // Until counts are trustworthy, show loaders for the progress/percentage and
   // per-section counters instead of a 0% flash.
@@ -105,6 +115,9 @@ export function BrowseView() {
 
   const goNext = () => setSwipeIndex((i) => Math.min(list.length - 1, i + 1));
   const goPrev = () => setSwipeIndex((i) => Math.max(0, i - 1));
+  // Set when leaving swipe via "Voltar": the grid then scrolls to the section of
+  // the sticker we stopped on (see effect below).
+  const returnToGrid = useRef(false);
   // touch swipe (mobile): left = next, right = prev
   const touchStart = useRef<{ x: number; y: number } | null>(null);
   const onTouchStart = (e: React.TouchEvent) => {
@@ -123,6 +136,70 @@ export function BrowseView() {
       else goPrev();
     }
   };
+
+  // ---- URL state: ?team= (country), ?fig= (swipe sticker), #sec- (scroll) ----
+  // mode is derived, not stored: ?fig= present ⇒ swipe, absent ⇒ grid.
+
+  // Restore from the URL once on mount, before we start writing it back. SSR
+  // can't read window, so a lazy useState initializer isn't an option — this
+  // mount effect is the intended place to sync from the URL (external system).
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    const t = params.get("team");
+    const teamVal = t && t !== "all" && TEAMS.has(t) ? t : "all";
+    const fig = params.get("fig");
+    // filter is always "all" on load, so the swipe list is just team-filtered
+    const figIndex = fig
+      ? STICKERS.filter((s) => teamVal === "all" || s.team === teamVal).findIndex(
+          (s) => s.num === fig,
+        )
+      : -1;
+
+    /* eslint-disable react-hooks/set-state-in-effect -- syncing from the URL on mount */
+    if (teamVal !== "all") setTeam(teamVal);
+    if (figIndex >= 0) {
+      setMode("swipe");
+      setSwipeIndex(figIndex);
+    }
+    setUrlReady(true);
+    /* eslint-enable react-hooks/set-state-in-effect */
+  }, []);
+
+  // Reflect team + swipe sticker into the URL (replaceState: shareable,
+  // reload-stable, no history spam). The section #hash is owned by the
+  // scrollspy below, so we only keep it while that's active (grid + no country).
+  useEffect(() => {
+    if (!urlReady) return;
+    const params = new URLSearchParams(window.location.search);
+    if (team === "all") params.delete("team");
+    else params.set("team", team);
+    if (mode === "swipe" && current) params.set("fig", current.num);
+    else params.delete("fig");
+    const qs = params.toString();
+    const hash = mode === "grid" && team === "all" ? window.location.hash : "";
+    window.history.replaceState(
+      null,
+      "",
+      window.location.pathname + (qs ? `?${qs}` : "") + hash,
+    );
+  }, [urlReady, team, mode, current]);
+
+  // Markdown-style scroll memory for the full grid (no country, grid mode).
+  useSectionScrollSpy(urlReady && mode === "grid" && team === "all");
+
+  // Returning from swipe to grid: scroll to the section/country of the sticker we
+  // stopped on (the grid unmounts in swipe mode, so we'd otherwise land at top).
+  useEffect(() => {
+    if (mode !== "grid" || !returnToGrid.current) return;
+    returnToGrid.current = false;
+    if (!current) return;
+    const id = `sec-${sectionOf(current.num)}`;
+    requestAnimationFrame(() =>
+      requestAnimationFrame(() => {
+        document.getElementById(id)?.scrollIntoView({ block: "start" });
+      }),
+    );
+  }, [mode, current]);
 
   return (
     <main className="mx-auto flex max-w-[1800px] flex-col gap-4 px-4 py-7 sm:px-10 lg:px-16">
@@ -163,7 +240,10 @@ export function BrowseView() {
           <div className="flex flex-wrap items-center gap-3">
             <button
               type="button"
-              onClick={() => setMode("grid")}
+              onClick={() => {
+                returnToGrid.current = true;
+                setMode("grid");
+              }}
               className="flex items-center gap-1.5 text-sm font-medium text-muted-foreground transition hover:text-foreground"
             >
               <ArrowLeft className="h-4 w-4" />
@@ -187,7 +267,14 @@ export function BrowseView() {
             {groups.map((g) => {
               const stats = sectionStats.get(g.section);
               return (
-                <section key={g.section}>
+                <section
+                  key={g.section}
+                  id={`sec-${g.section}`}
+                  data-section={g.section}
+                  // offset for the sticky header so scroll lands on the country
+                  // name, not the first sticker (matches scrollspy TOP = 96).
+                  className="scroll-mt-24"
+                >
                   {/* section banner */}
                   <div className="mb-4 flex items-center gap-3">
                     <div className="h-7 w-1.5 rounded-full bg-brand" />
@@ -206,22 +293,17 @@ export function BrowseView() {
                   {/* fixed-height row: landscape cards are portrait cards rotated 90° */}
                   <div className="flex flex-wrap gap-3 sm:gap-5">
                     {g.stickers.map((s) => (
-                      <button
+                      <StickerGridCell
                         key={s.num}
-                        className={cn(
-                          "h-44 shrink-0 sm:h-56 lg:h-64",
-                          s.landscape ? "aspect-[4/3]" : "aspect-[3/4]",
-                        )}
-                        onClick={() => {
+                        sticker={s}
+                        count={entries[s.num]?.count ?? 0}
+                        loggedIn={loggedIn}
+                        onOpen={() => {
                           setMode("swipe");
                           setSwipeIndex(list.indexOf(s));
                         }}
-                      >
-                        <StickerCard
-                          sticker={s}
-                          count={entries[s.num]?.count ?? 0}
-                        />
-                      </button>
+                        onSetCount={(n) => setCount(s.num, n)}
+                      />
                     ))}
                   </div>
                 </section>
