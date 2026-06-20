@@ -3,6 +3,7 @@ import { Mona_Sans, Anton, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import { Header } from "@/components/Header";
 import { SyncManager } from "@/components/SyncManager";
+import { UndoSnackbar } from "@/components/UndoSnackbar";
 
 // Body / UI: Mona Sans — GitHub's typeface, used for all non-FIFA text.
 const monaSans = Mona_Sans({
@@ -41,6 +42,7 @@ export default function RootLayout({
         <SyncManager />
         <Header />
         {children}
+        <UndoSnackbar />
       </body>
     </html>
   );

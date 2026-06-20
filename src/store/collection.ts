@@ -4,11 +4,22 @@ import { create } from "zustand";
 import { persist } from "zustand/middleware";
 import type { CollectionEntry } from "@/lib/types";
 
+/** The most recent single-sticker edit, for one-level undo. `seq` increments on
+ *  every edit so the UI can re-trigger even when the same sticker is toggled. */
+interface LastChange {
+  num: string;
+  prevCount: number;
+  seq: number;
+}
+
 interface CollectionState {
   entries: Record<string, CollectionEntry>;
   /** Bumped by USER edits only (never by adopt) so the sync layer can tell a
    *  local change from a server-driven update and avoid push loops. */
   rev: number;
+  /** Last single-sticker edit (set by setCount only), or null. Cleared by undo
+   *  and by any bulk/server update so the snackbar never offers a stale revert. */
+  lastChange: LastChange | null;
   /** count for a sticker (0 if untracked / missing). */
   getCount: (num: string) => number;
   isOwned: (num: string) => boolean;
@@ -17,6 +28,8 @@ interface CollectionState {
   dec: (num: string) => void;
   /** 0 -> 1, >=1 -> 0 */
   toggleOwned: (num: string) => void;
+  /** Revert the last single-sticker edit. No-op if there's nothing to undo. */
+  undo: () => void;
   /** Bulk-apply confirmed scan results: owned nums -> count>=1, others optional. */
   applyOwned: (ownedNums: string[]) => void;
   /** Bulk set many counts in one update (used for dev seeding). */
@@ -33,6 +46,7 @@ export const useCollection = create<CollectionState>()(
     (set, get) => ({
       entries: {},
       rev: 0,
+      lastChange: null,
 
       getCount: (num) => get().entries[num]?.count ?? 0,
       isOwned: (num) => (get().entries[num]?.count ?? 0) >= 1,
@@ -46,12 +60,31 @@ export const useCollection = create<CollectionState>()(
             [num]: { num, count: Math.max(0, Math.floor(count)), updatedAt: now() },
           },
           rev: state.rev + 1,
+          lastChange: {
+            num,
+            prevCount: state.entries[num]?.count ?? 0,
+            seq: (state.lastChange?.seq ?? 0) + 1,
+          },
         })),
 
       inc: (num) => get().setCount(num, get().getCount(num) + 1),
       dec: (num) => get().setCount(num, get().getCount(num) - 1),
       toggleOwned: (num) =>
         get().setCount(num, get().getCount(num) >= 1 ? 0 : 1),
+
+      undo: () =>
+        set((state) => {
+          const lc = state.lastChange;
+          if (!lc) return {};
+          return {
+            entries: {
+              ...state.entries,
+              [lc.num]: { num: lc.num, count: lc.prevCount, updatedAt: now() },
+            },
+            rev: state.rev + 1,
+            lastChange: null,
+          };
+        }),
 
       applyOwned: (ownedNums) =>
         set((state) => {
@@ -61,7 +94,7 @@ export const useCollection = create<CollectionState>()(
             const cur = entries[num]?.count ?? 0;
             entries[num] = { num, count: Math.max(1, cur), updatedAt: ts };
           }
-          return { entries, rev: state.rev + 1 };
+          return { entries, rev: state.rev + 1, lastChange: null };
         }),
 
       setMany: (updates) =>
@@ -71,16 +104,21 @@ export const useCollection = create<CollectionState>()(
           for (const { num, count } of updates) {
             entries[num] = { num, count: Math.max(0, Math.floor(count)), updatedAt: ts };
           }
-          return { entries, rev: state.rev + 1 };
+          return { entries, rev: state.rev + 1, lastChange: null };
         }),
 
       adopt: (list) =>
         set(() => ({
           entries: Object.fromEntries(list.map((e) => [e.num, e])),
+          lastChange: null,
         })),
 
-      reset: () => set((state) => ({ entries: {}, rev: state.rev + 1 })),
+      reset: () => set((state) => ({ entries: {}, rev: state.rev + 1, lastChange: null })),
     }),
-    { name: "panini-wc2026-collection" },
+    {
+      name: "panini-wc2026-collection",
+      // Undo state is ephemeral — keep the persisted shape to entries + rev.
+      partialize: (s) => ({ entries: s.entries, rev: s.rev }),
+    },
   ),
 );
