@@ -45,6 +45,47 @@ const SECTIONS: string[] = (() => {
   return order;
 })();
 
+// Sort modes for the browse view + the missing-list export (they share state):
+//   album = manifest / "sticking" order (default); alpha = countries A–Z with
+//   the opening pages pinned first and the promos pinned last.
+type Sort = "album" | "alpha";
+const PINNED_FIRST = [
+  "fwc-opening",
+  "fwc-cities",
+  "fwc-history-1930",
+  "fwc-history-1978",
+];
+const PINNED_LAST = ["_legend", "cc-lam", "_other"];
+
+function sortSections(ids: string[], mode: Sort): string[] {
+  if (mode === "album") return ids;
+  const first = PINNED_FIRST.filter((id) => ids.includes(id));
+  const last = PINNED_LAST.filter((id) => ids.includes(id));
+  const countries = ids
+    .filter((id) => !PINNED_FIRST.includes(id) && !PINNED_LAST.includes(id))
+    .sort((a, b) => sectionTitle(a).localeCompare(sectionTitle(b), "pt"));
+  return [...first, ...countries, ...last];
+}
+
+// Whole-album want-list, grouped by section in the active sort order; within a
+// section, sticking (manifest) order. IDs uppercased. Ignores filter/team.
+function buildMissingList(
+  entries: Record<string, { count: number } | undefined>,
+  mode: Sort,
+): string {
+  const bySection = new Map<string, string[]>();
+  for (const s of STICKERS) {
+    if ((entries[s.num]?.count ?? 0) !== 0) continue;
+    const id = sectionOf(s.num);
+    const arr = bySection.get(id) ?? [];
+    arr.push(s.num.toUpperCase());
+    bySection.set(id, arr);
+  }
+  return sortSections([...bySection.keys()], mode)
+    .map((id) => `${sectionTitle(id)}: ${bySection.get(id)!.join(", ")}`)
+    .join("\n");
+}
+
 // Valid country codes, for sanitizing the ?team= URL param.
 const TEAMS = new Set(STICKERS.map((s) => s.team));
 
@@ -55,6 +96,8 @@ export function BrowseView() {
   const [filter, setFilter] = useState<Filter>("all");
   const [team, setTeam] = useState<string>("all");
   const [mode, setMode] = useState<"grid" | "swipe">("grid");
+  const [sort, setSort] = useState<Sort>("album");
+  const [copied, setCopied] = useState(false);
   const [swipeIndex, setSwipeIndex] = useState(0);
   // Gates URL writes until we've restored from the URL on mount (below).
   const [urlReady, setUrlReady] = useState(false);
@@ -95,7 +138,23 @@ export function BrowseView() {
     return stats;
   }, [entries]);
 
-  // group the filtered list by section, preserving manifest (SECTIONS) order
+  // Sections in scope of the current team filter, in the active sort order. We
+  // group over these (not just the sections present in `list`) so a country with
+  // 0 matches under a filter still renders its header — but team=bra shows only
+  // Brasil, never a wall of empty country rows.
+  const candidateSections = useMemo(() => {
+    const ids = new Set<string>();
+    for (const s of STICKERS) {
+      if (team !== "all" && s.team !== team) continue;
+      ids.add(sectionOf(s.num));
+    }
+    return sortSections(
+      SECTIONS.filter((id) => ids.has(id)),
+      sort,
+    );
+  }, [team, sort]);
+
+  // group the filtered list by section; candidate rows may be empty (kept visible)
   const groups = useMemo(() => {
     const bySection = new Map<string, typeof list>();
     for (const s of list) {
@@ -104,11 +163,11 @@ export function BrowseView() {
       arr.push(s);
       bySection.set(id, arr);
     }
-    return SECTIONS.filter((id) => bySection.has(id)).map((id) => ({
+    return candidateSections.map((id) => ({
       section: id,
-      stickers: bySection.get(id)!,
+      stickers: bySection.get(id) ?? [],
     }));
-  }, [list]);
+  }, [list, candidateSections]);
 
   const safeIndex = Math.min(swipeIndex, Math.max(0, list.length - 1));
   const current = list[safeIndex];
@@ -157,6 +216,7 @@ export function BrowseView() {
 
     /* eslint-disable react-hooks/set-state-in-effect -- syncing from the URL on mount */
     if (teamVal !== "all") setTeam(teamVal);
+    if (params.get("sort") === "alpha") setSort("alpha");
     if (figIndex >= 0) {
       setMode("swipe");
       setSwipeIndex(figIndex);
@@ -173,6 +233,8 @@ export function BrowseView() {
     const params = new URLSearchParams(window.location.search);
     if (team === "all") params.delete("team");
     else params.set("team", team);
+    if (sort === "alpha") params.set("sort", "alpha");
+    else params.delete("sort");
     if (mode === "swipe" && current) params.set("fig", current.num);
     else params.delete("fig");
     const qs = params.toString();
@@ -182,7 +244,7 @@ export function BrowseView() {
       "",
       window.location.pathname + (qs ? `?${qs}` : "") + hash,
     );
-  }, [urlReady, team, mode, current]);
+  }, [urlReady, team, sort, mode, current]);
 
   // Markdown-style scroll memory for the full grid (no country, grid mode).
   useSectionScrollSpy(urlReady && mode === "grid" && team === "all");
@@ -235,6 +297,36 @@ export function BrowseView() {
                 setSwipeIndex(0);
               }}
             />
+            <div className="flex gap-1.5">
+              <Button
+                size="sm"
+                variant={sort === "album" ? "default" : "outline"}
+                onClick={() => setSort("album")}
+              >
+                Álbum
+              </Button>
+              <Button
+                size="sm"
+                variant={sort === "alpha" ? "default" : "outline"}
+                onClick={() => setSort("alpha")}
+              >
+                A–Z
+              </Button>
+            </div>
+            <Button
+              size="sm"
+              variant="outline"
+              disabled={pct === 100}
+              onClick={async () => {
+                const text = buildMissingList(entries, sort);
+                if (!text) return;
+                await navigator.clipboard.writeText(text);
+                setCopied(true);
+                setTimeout(() => setCopied(false), 1500);
+              }}
+            >
+              {copied ? "Copiado ✓" : "Copiar faltantes"}
+            </Button>
           </div>
         ) : (
           <div className="flex flex-wrap items-center gap-3">
@@ -291,21 +383,29 @@ export function BrowseView() {
                     <div className="h-px flex-1 bg-border" />
                   </div>
                   {/* fixed-height row: landscape cards are portrait cards rotated 90° */}
-                  <div className="flex flex-wrap gap-3 sm:gap-5">
-                    {g.stickers.map((s) => (
-                      <StickerGridCell
-                        key={s.num}
-                        sticker={s}
-                        count={entries[s.num]?.count ?? 0}
-                        loggedIn={loggedIn}
-                        onOpen={() => {
-                          setMode("swipe");
-                          setSwipeIndex(list.indexOf(s));
-                        }}
-                        onSetCount={(n) => setCount(s.num, n)}
-                      />
-                    ))}
-                  </div>
+                  {g.stickers.length > 0 ? (
+                    <div className="flex flex-wrap gap-3 sm:gap-5">
+                      {g.stickers.map((s) => (
+                        <StickerGridCell
+                          key={s.num}
+                          sticker={s}
+                          count={entries[s.num]?.count ?? 0}
+                          loggedIn={loggedIn}
+                          onOpen={() => {
+                            setMode("swipe");
+                            setSwipeIndex(list.indexOf(s));
+                          }}
+                          onSetCount={(n) => setCount(s.num, n)}
+                        />
+                      ))}
+                    </div>
+                  ) : (
+                    <p className="text-sm text-muted-foreground">
+                      {filter === "missing" && stats && stats.owned === stats.total
+                        ? "✓ Completo"
+                        : "Nada aqui"}
+                    </p>
+                  )}
                 </section>
               );
             })}

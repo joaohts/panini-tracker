@@ -26,8 +26,17 @@ export function TeamCombobox({
     return () => document.removeEventListener("mousedown", onDoc);
   }, []);
 
+  // "all" pinned first, then teams A–Z by PT label (matches the browse A–Z view).
+  const sortedCodes = useMemo(
+    () => [
+      "all",
+      ...[...TEAMS].sort((a, b) => teamLabel(a).localeCompare(teamLabel(b), "pt")),
+    ],
+    [],
+  );
+
   const options = useMemo(() => {
-    const codes = ["all", ...TEAMS];
+    const codes = sortedCodes;
     const nq = norm(q);
     if (!nq) return codes;
     return codes.filter((code) => {
@@ -37,7 +46,7 @@ export function TeamCombobox({
           : [...countrySearchTokens(code), norm(teamLabel(code))];
       return tokens.some((t) => t.includes(nq));
     });
-  }, [q]);
+  }, [q, sortedCodes]);
 
   const label = value === "all" ? "Todas" : teamLabel(value);
 
