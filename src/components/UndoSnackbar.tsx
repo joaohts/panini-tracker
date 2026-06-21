@@ -39,9 +39,16 @@ export function UndoSnackbar() {
     if (timer.current) clearTimeout(timer.current);
     timer.current = setTimeout(() => setEntered(false), VISIBLE_MS);
     // Any tap/click OR scroll/drag anywhere dismisses it (non-blocking — the
-    // gesture still does its own thing). The effect runs after the edit's click
-    // has already fired, so this never catches the click that opened it.
-    const dismiss = () => setEntered(false);
+    // gesture still does its own thing). Armed after a short delay so the tap
+    // that opened it — and the residual touchmove/scroll it triggers on mobile
+    // (layout shift, address-bar resize) — doesn't instantly close it again.
+    let armed = false;
+    const armTimer = setTimeout(() => {
+      armed = true;
+    }, 600);
+    const dismiss = () => {
+      if (armed) setEntered(false);
+    };
     window.addEventListener("pointerdown", dismiss);
     window.addEventListener("wheel", dismiss, { passive: true });
     window.addEventListener("touchmove", dismiss, { passive: true });
@@ -49,6 +56,7 @@ export function UndoSnackbar() {
     return () => {
       cancelAnimationFrame(raf);
       if (timer.current) clearTimeout(timer.current);
+      clearTimeout(armTimer);
       window.removeEventListener("pointerdown", dismiss);
       window.removeEventListener("wheel", dismiss);
       window.removeEventListener("touchmove", dismiss);
