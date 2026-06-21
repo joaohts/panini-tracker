@@ -108,10 +108,16 @@ export const useCollection = create<CollectionState>()(
         }),
 
       adopt: (list) =>
-        set(() => ({
-          entries: Object.fromEntries(list.map((e) => [e.num, e])),
-          lastChange: null,
-        })),
+        set((state) => {
+          const entries = Object.fromEntries(list.map((e) => [e.num, e]));
+          // Keep the undo target through a normal sync: pushing our own edit
+          // echoes the same value back, so only drop it when the server shows a
+          // *different* count for that sticker (a genuine cross-device change).
+          const lc = state.lastChange;
+          const changedRemotely =
+            lc && (entries[lc.num]?.count ?? 0) !== (state.entries[lc.num]?.count ?? 0);
+          return { entries, lastChange: changedRemotely ? null : lc };
+        }),
 
       reset: () => set((state) => ({ entries: {}, rev: state.rev + 1, lastChange: null })),
     }),
