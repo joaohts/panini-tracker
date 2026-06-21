@@ -38,9 +38,15 @@ export function UndoSnackbar() {
     const raf = requestAnimationFrame(() => setEntered(true)); // enter next frame
     if (timer.current) clearTimeout(timer.current);
     timer.current = setTimeout(() => setEntered(false), VISIBLE_MS);
+    // A tap/click anywhere dismisses it (non-blocking — the click still does its
+    // own thing). The effect runs after the edit's click has already fired, so
+    // this never catches the click that opened the snackbar.
+    const dismiss = () => setEntered(false);
+    window.addEventListener("pointerdown", dismiss);
     return () => {
       cancelAnimationFrame(raf);
       if (timer.current) clearTimeout(timer.current);
+      window.removeEventListener("pointerdown", dismiss);
     };
     // Re-run on each new edit (seq changes) and when the change is cleared.
     // eslint-disable-next-line react-hooks/exhaustive-deps
