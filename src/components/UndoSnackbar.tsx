@@ -3,7 +3,7 @@
 import { useEffect, useRef, useState } from "react";
 import { useCollection } from "@/store/collection";
 
-const VISIBLE_MS = 4000;
+const VISIBLE_MS = 7000;
 
 /**
  * One-level undo for single-sticker edits. Slides up after each toggle and
