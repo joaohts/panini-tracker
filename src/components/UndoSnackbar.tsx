@@ -45,7 +45,7 @@ export function UndoSnackbar() {
     let armed = false;
     const armTimer = setTimeout(() => {
       armed = true;
-    }, 600);
+    }, 1000);
     const dismiss = () => {
       if (armed) setEntered(false);
     };
